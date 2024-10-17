@@ -336,7 +336,13 @@ function calculateSMSSSV(gen, attacker, defender, move, field) {
         desc.defenderItem = defender.item;
     }
     if (isCritical) {
-        baseDamage = Math.floor((0, util_2.OF32)(baseDamage * 1.5));
+        if (attacker.hasAbility('Sniper')) {
+            baseDamage *= 3;
+            desc.attackerAbility = attacker.ability;
+        }
+        else {
+            baseDamage *= 2;
+        }
         desc.isCritical = isCritical;
     }
     var stabMod = 4096;
@@ -1085,10 +1091,6 @@ function calculateFinalModsSMSSSV(gen, attacker, defender, move, field, desc, is
     }
     if (attacker.hasAbility('Neuroforce') && typeEffectiveness > 1) {
         finalMods.push(5120);
-        desc.attackerAbility = attacker.ability;
-    }
-    else if (attacker.hasAbility('Sniper') && isCritical) {
-        finalMods.push(6144);
         desc.attackerAbility = attacker.ability;
     }
     else if (attacker.hasAbility('Tinted Lens') && typeEffectiveness < 1) {

@@ -487,10 +487,14 @@ export function calculateSMSSSV(
   }
 
   if (isCritical) {
-    baseDamage = Math.floor(OF32(baseDamage * 1.5));
+    if (attacker.hasAbility('Sniper')) {
+      baseDamage *= 3;
+      desc.attackerAbility = attacker.ability;
+    } else {
+      baseDamage *= 2;
+    }
     desc.isCritical = isCritical;
   }
-
   // the random factor is applied between the crit mod and the stab mod, so don't apply anything
   // below this until we're inside the loop
   let stabMod = 4096;
@@ -1440,9 +1444,6 @@ export function calculateFinalModsSMSSSV(
 
   if (attacker.hasAbility('Neuroforce') && typeEffectiveness > 1) {
     finalMods.push(5120);
-    desc.attackerAbility = attacker.ability;
-  } else if (attacker.hasAbility('Sniper') && isCritical) {
-    finalMods.push(6144);
     desc.attackerAbility = attacker.ability;
   } else if (attacker.hasAbility('Tinted Lens') && typeEffectiveness < 1) {
     finalMods.push(8192);
