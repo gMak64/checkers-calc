@@ -91,7 +91,7 @@ var SETDEX_SS = {
 },
 
 "Donphan":{
-"Special Grade Stonkedd":{"level":24,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sturdy","moves":["Sand Tomb","Mud Slap","Stealth Rock","Assurance"],"nature":"Serious","item":"Brightpowder","index":88},
+"Special Grade Stonkedd":{"level":24,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sturdy","moves":["Sand Tomb","Mud-Slap","Stealth Rock","Assurance"],"nature":"Serious","item":"Brightpowder","index":88},
 },
 
 "Drifloon":{

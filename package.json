@@ -9,6 +9,11 @@
     "eslint": "^8.27.0",
     "express": "^4.18.2",
     "gh-pages": "^6.2.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-gh-pages": "^4.0.0",
     "subpkg": "^4.1.0"
   },
   "optionalDependencies": {
@@ -39,6 +44,8 @@
     "fix": "subpkg run fix && eslint --fix src --ext js",
     "compile": "subpkg run compile && node build view",
     "bundle": "subpkg run bundle",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "subpkg run build && node build view",
     "test": "subpkg run test && npm run build && eslint --cache src --ext js",
     "postinstall": "subpkg install"
