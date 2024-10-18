@@ -218,7 +218,7 @@ var SETDEX_SS = {
     },
 
 	"Crobat":{
-	"Galactic Boss Cyrus":{"level":45,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Inner Focus","moves":["Sludge Bomb","Air Slash","Giga Drain","Hypnosis"],"nature":"Docile","item":"Wise Glasses","index":359},
+	"Galactic Boss Cyrus Celestic Ruins":{"level":45,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Inner Focus","moves":["Sludge Bomb","Air Slash","Giga Drain","Hypnosis"],"nature":"Docile","item":"Wise Glasses","index":359},
 	"Commander Mars Lake Verity":{"level":52,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Inner Focus","moves":["Brave Bird","Hypnosis","Double Team","Giga Drain"],"nature":"Modest","item":"Bright Powder","index":431},
 	},
         
@@ -498,7 +498,7 @@ var SETDEX_SS = {
     },
 
 	"Honchkrow":{
-	"Galactic Boss Cyrus":{"level":45,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Super Luck","moves":["Brave Bird","Night Slash","Swagger","Torment"],"nature":"Sassy","item":"Scope Lens","index":360},
+	"Galactic Boss Cyrus Celestic Ruins":{"level":45,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Super Luck","moves":["Brave Bird","Night Slash","Swagger","Torment"],"nature":"Sassy","item":"Scope Lens","index":360},
 	},
         
     "Hoothoot":{
@@ -641,7 +641,7 @@ var SETDEX_SS = {
 	},
 
 	"Magnezone":{
-	"Galactic Boss Cyrus":{"level":45,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Magnet Pull","moves":["Thunderbolt","Flash Cannon","Thunder Wave","Mirror Coat"],"nature":"Adamant","item":"Life Orb","index":361},
+	"Galactic Boss Cyrus Celestic Ruins":{"level":45,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Magnet Pull","moves":["Thunderbolt","Flash Cannon","Thunder Wave","Mirror Coat"],"nature":"Adamant","item":"Life Orb","index":361},
 	"Leader Byron":{"level":52,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Magnet Pull","moves":["Thunderbolt","Flash Cannon","Signal Beam","Thunder Wave"],"nature":"Quiet","item":"Wise Glasses","index":417},
 	},
         
@@ -1149,7 +1149,7 @@ var SETDEX_SS = {
 	},
 
 	"Weavile":{
-	"Galactic Boss Cyrus":{"level":46,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Technician","moves":["Feint Attack","Icicle Crash","Ice Shard","Swords Dance"],"nature":"Adamant","item":"Expert Belt","index":362},
+	"Galactic Boss Cyrus Celestic Ruins":{"level":46,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Technician","moves":["Feint Attack","Icicle Crash","Ice Shard","Swords Dance"],"nature":"Adamant","item":"Expert Belt","index":362},
 	"Leader Candice":{"level":55,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Technician","moves":["Crunch","Icicle Crash","Aerial Ace","Swords Dance"],"nature":"Naughty","item":"Focus Sash","index":458},
 	},
         
