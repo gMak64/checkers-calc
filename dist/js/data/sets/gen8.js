@@ -39,6 +39,9 @@ var SETDEX_SS = {
 	"PKMN Trainer Lucas 224 - Cleffa":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Magic Guard","moves":["Psychic","Shadow Ball","Aura Sphere","Dazzling Gleam"],"nature":"Timid","item":"Life Orb","index":661},
 	"PKMN Trainer Lucas 224 - Gastly":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Magic Guard","moves":["Psychic","Shadow Ball","Aura Sphere","Dazzling Gleam"],"nature":"Jolly","item":"Life Orb","index":667},
 	"PKMN Trainer Lucas 224 - Taillow":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Magic Guard","moves":["Psychic","Shadow Ball","Aura Sphere","Dazzling Gleam"],"nature":"Mild","item":"Life Orb","index":673},
+	"Elite Four Lucian 1":{"level":74,"ivs":{"hp":28,"at":28,"df":28,"sa":28,"sd":28,"sp":28,},"ability":"Magic Guard","moves":["Psychic","Shadow Ball","Energy Ball","Aura Sphere"],"nature":"Timid","item":"Life Orb","index":772},
+	"Elite Four Lucian 4":{"level":74,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Magic Guard","moves":["Psychic","Aura Sphere","Thunder Wave","Counter"],"nature":"Timid","item":"Focus Sash","index":787},
+
 	},
 
 	"Altaria":{
@@ -53,6 +56,8 @@ var SETDEX_SS = {
 
 	"Ampharos":{
 	"Ace Trainer Zachary":{"level":60,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Static","moves":["Thunderbolt","Dragon Pulse","Focus Blast","Power Gem"],"nature":"Hardy","item":"(none)","index":563},
+	"Champion Cynthia 2":{"level":77,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Static","moves":["Thunderbolt","Dragon Pulse","Focus Blast","Flash Cannon"],"nature":"Quiet","item":"Shuca Berry","index":801},
+
 	},
 
 	"Anorith":{
@@ -67,6 +72,8 @@ var SETDEX_SS = {
 	"Pokemon Trainer Marley":{"level":66,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Intimidate","moves":["Flare Blitz","Close Combat","Crunch","Extreme Speed"],"nature":"Hardy","item":"Sitrus Berry","index":624},
 	"PKMN Trainer Barry Pokemon League - Cleffa":{"level":70,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Intimidate","moves":["Flare Blitz","Close Combat","Wild Charge","Crunch"],"nature":"Quiet","item":"Life Orb","index":683},
 	"PKMN Trainer Barry Pokemon League - Taillow":{"level":70,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Intimidate","moves":["Flare Blitz","Close Combat","Wild Charge","Crunch"],"nature":"Brave","item":"Life Orb","index":695},
+	"Elite Four Flint 3":{"level":73,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Intimidate","moves":["Flare Blitz","Wild Charge","Crunch","Extreme Speed"],"nature":"Hasty","item":"Expert Belt","index":758},
+	"Elite Four Flint 4":{"level":73,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Intimidate","moves":["Flare Blitz","Wild Charge","Crunch","Extreme Speed"],"nature":"Hasty","item":"Expert Belt","index":765},
 	},
     
     "Arbok":{
@@ -79,6 +86,11 @@ var SETDEX_SS = {
 	"Galactic Grunt 4 Galactic HQ":{"level":53,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Swarm","moves":["Pin Missile","Cross Poison","Agility","Psychic"],"nature":"Serious","item":"(none)","index":473},
 	"Galactic Grunt 5 Mt. Coronet":{"level":55,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Swarm","moves":["Megahorn","Cross Poison","Agility","Psychic"],"nature":"Adamant","item":"(none)","index":504},
     }, 
+
+	"Armaldo":{
+	"Elite Four Aaron 1":{"level":71,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Battle Armor","moves":["X-Scissor","Stone Edge","Earthquake","Aqua Tail"],"nature":"Naughty","item":"Choice Band","index":701},
+	"Elite Four Aaron 2":{"level":71,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Battle Armor","moves":["X-Scissor","Stone Edge","Earthquake","Aqua Tail"],"nature":"Adamant","item":"Choice Band","index":707},
+	},
   
     "Aron":{
     "Camper Curtis":{"level":12,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Rock Head","moves":["Metal Claw","Headbutt","Mud-Slap","Harden"],"nature":"Relaxed","item":"(none)","index":39},
@@ -122,6 +134,7 @@ var SETDEX_SS = {
 	"Galactic Grunt 2 Lake Verity":{"level":50,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Swarm","moves":["Air Slash","Rage","Whirlwind","Hurricane"],"nature":"Quirky","item":"(none)","index":429},
 	"Galactic Grunt 3 Galactic HQ":{"level":53,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Swarm","moves":["Air Slash","Rage","Whirlwind","Hurricane"],"nature":"Modest","item":"(none)","index":468},
 	"Galactic Grunt 2 Spear Pillar":{"level":56,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Swarm","moves":["Air Slash","Rage","Whirlwind","Hurricane"],"nature":"Modest","item":"(none)","index":515},
+	"Elite Four Aaron 3":{"level":71,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Swarm","moves":["Bug Buzz","Hurricane","Energy Ball","Shadow Ball"],"nature":"Mild","item":"Focus Sash","index":710},
     },
     
     "Beedrill":{
@@ -181,6 +194,8 @@ var SETDEX_SS = {
 	"Commander Saturn Galactic HQ":{"level":56,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Levitate","moves":["Zen Headbutt","Gyro Ball","Reflect","Light Screen"],"nature":"Quiet","item":"Light Clay","index":487},
 	"Commander Mars Spear Pillar":{"level":57,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Levitate","moves":["Stealth Rock","Zen Headbutt","Gyro Ball","Earthquake"],"nature":"Bold","item":"Leftovers","index":516},
 	"Commander Jupiter Spear Pillar":{"level":57,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Levitate","moves":["Swagger","Psychic","Flash Cannon","Grass Knot"],"nature":"Quiet","item":"Leftovers","index":522},
+	"Elite Four Lucian 1":{"level":74,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Levitate","moves":["Zen Headbutt","Gyro Ball","Reflect","Light Screen"],"nature":"Impish","item":"Leftovers","index":771},
+	"Elite Four Lucian 3":{"level":74,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Levitate","moves":["Psychic","Flash Cannon","Earthquake","Hypnosis"],"nature":"Relaxed","item":"Occa Berry","index":785},
     },
         
     "Bronzor":{
@@ -202,6 +217,10 @@ var SETDEX_SS = {
 	"Cacturne":{
 	"Galactic Grunt 5 Galactic HQ":{"level":53,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Water Absorb","moves":["Energy Ball","Nasty Plot","Pin Missile","Cotton Spore"],"nature":"Sassy","item":"(none)","index":476},
 	},
+
+	"Camerupt":{
+	"Elite Four Bertha 2":{"level":72,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Solid Rock","moves":["Overheat","Earth Power","Yawn","Explosion"],"nature":"Quiet","item":"Focus Sash","index":731},
+	},
         
     "Cascoon":{
     "Galactic Grunt 2 Jubilife":{"level":13,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Shed Skin","moves":["Bug Bite","Iron Defense","Poison Sting","String Shot"],"nature":"Relaxed","item":"(none)","index":54},
@@ -212,6 +231,7 @@ var SETDEX_SS = {
 
 	"Charizard":{
 	"Dragon Tamer Ondrej":{"level":64,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Levitate","moves":["Flamethrower","Dragon Pulse","Hurricane","Crunch"],"nature":"Impish","item":"(none)","index":609},
+	"Elite Four Flint 3":{"level":73,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Levitate","moves":["Fire Blast","Dragon Pulse","Hurricane","Solar Beam"],"nature":"Modest","item":"Choice Specs","index":761},
 	},
         
     "Chansey":{
@@ -227,6 +247,10 @@ var SETDEX_SS = {
 	"Psychic Valencia":{"level":63,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Levitate","moves":["Psychic","Hypnosis","Double Team","Energy Ball"],"nature":"Bashful","item":"(none)","index":602},
 	"Psychic Kendra":{"level":64,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Levitate","moves":["Psychic","Shadow Ball","Energy Ball","Charge Beam"],"nature":"Timid","item":"(none)","index":631},
 	},
+
+	"Claydol":{
+	"Elite Four Bertha 3":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Levitate","moves":["Earthquake","Psychic","Reflect","Light Screen"],"nature":"Sassy","item":"Light Clay","index":737},
+	},
         
     "Clefable":{
     "PKMN Trainer Dawn 207 - Cleffa":{"level":29,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Cute Charm","moves":["Moonblast","Moonlight","Encore","Thunder Wave"],"nature":"Careful","item":"Leftovers","index":126},
@@ -239,6 +263,7 @@ var SETDEX_SS = {
 	"PKMN Trainer Dawn 224 - Cleffa":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Cute Charm","moves":["Moonblast","Soft-Boiled","Calm Mind","Flamethrower"],"nature":"Mild","item":"Leftovers","index":645},
 	"PKMN Trainer Dawn 224 - Gastly":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Cute Charm","moves":["Moonblast","Soft-Boiled","Calm Mind","Flamethrower"],"nature":"Rash","item":"Leftovers","index":651},
 	"PKMN Trainer Dawn 224 - Taillow":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Cute Charm","moves":["Moonblast","Soft-Boiled","Calm Mind","Flamethrower"],"nature":"Sassy","item":"Leftovers","index":657},
+	"Champion Cynthia 4":{"level":77,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Cute Charm","moves":["Moonblast","Soft-Boiled","Reflect","Light Screen"],"nature":"Calm","item":"Light Clay","index":811},
     },
         
     "Clefairy":
@@ -324,6 +349,7 @@ var SETDEX_SS = {
     "Donphan":{
     "Special Grade Stonkedd":{"level":24,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sand Veil","moves":["Sand Tomb","Mud-Slap","Stealth Rock","Assurance"],"nature":"Serious","item":"Bright Powder","index":88},
 	"Veteran Brenden":{"level":66,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Sand Veil","moves":["Earthquake","Ice Shard","Play Rough","Head Smash"],"nature":"Bold","item":"(none)","index":642},
+	"Elite Four Bertha 1":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Sand Veil","moves":["Earthquake","Play Rough","Head Smash","Superpower"],"nature":"Impish","item":"Rindo Berry","index":725},
     },
 
 	"Dragonite":{
@@ -336,11 +362,17 @@ var SETDEX_SS = {
 	"The Illusioned Moxi":{"level":54,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sniper","moves":["Acupressure","Night Slash","Cross Poison","Aqua Tail"],"nature":"Gentle","item":"Scope Lens","index":451},
 	"Galactic Grunt 2 Mt. Coronet":{"level":54,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Sniper","moves":["Night Slash","Scary Face","Crunch","Cross Poison"],"nature":"Adamant","item":"(none)","index":497},
 	"Nuzlocke Haters Steb & Bobr Sunyshore":{"level":60,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"","moves":["Cross Poison","Night Slash","Stone Edge","Swords Dance"],"nature":"Hasty","item":"Scope Lens","index":540},
+	"Elite Four Aaron 1":{"level":72,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sniper","moves":["Cross Poison","Night Slash","X-Scissor","Earthquake"],"nature":"Jolly","item":"Scope Lens","index":702},
+	"Elite Four Aaron 2":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Sniper","moves":["Cross Poison","Night Slash","Aqua Tail","Earthquake"],"nature":"Naive","item":"Scope Lens","index":708},
+	"Elite Four Aaron 3":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Sniper","moves":["Cross Poison","Night Slash","X-Scissor","Earthquake"],"nature":"Naive","item":"Scope Lens","index":714},
+	"Elite Four Aaron 4":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Sniper","moves":["Cross Poison","Night Slash","Aqua Tail","Earthquake"],"nature":"Naive","item":"Scope Lens","index":720},
     },
         
     "Drifblim":{
     "Leader Fantina":{"level":32,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Unburden","moves":["Shadow Ball","Air Slash","Baton Pass","Calm Mind"],"nature":"Naive","item":"Starf Berry","index":159},
     "Ace Trainer Dennis":{"level":35,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Unburden","moves":["Shadow Ball","Air Slash","Destiny Bond","Amnesia"],"nature":"Gentle","item":"(none)","index":222},
+	"Elite Four Flint 2":{"level":73,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Unburden","moves":["Shadow Ball","Hurricane","Flamethrower","Will-O-Wisp"],"nature":"Modest","item":"Wacan Berry","index":753},
+	"Elite Four Flint 4":{"level":73,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Unburden","moves":["Shadow Ball","Hurricane","Flamethrower","Will-O-Wisp"],"nature":"Rash","item":"Wacan Berry","index":766},
     },
         
     "Drifloon":{
@@ -351,6 +383,11 @@ var SETDEX_SS = {
     "Psychic Elijah":{"level":17,"ivs":{"hp":94,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Insomnia","moves":["Poison Gas","Headbutt","Confusion","Disable"],"nature":"Mild","item":"(none)","index":83},
     "Scientist Travon":{"level":24,"ivs":{"hp":18,"at":18,"df":18,"sa":18,"sd":18,"sp":18,},"ability":"Insomnia","moves":["Psycho Cut","Meditate","Psybeam","Poison Gas"],"nature":"Timid","item":"(none)","index":118},
     },
+
+	"Dugtrio":{
+	"Elite Four Bertha 3":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Arena Trap","moves":["Earthquake","Stone Edge","Night Slash","Aerial Ace"],"nature":"Naughty","item":"Choice Band","index":735},
+	"Elite Four Bertha 4":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Arena Trap","moves":["Earthquake","Stone Edge","Night Slash","Aerial Ace"],"nature":"Naughty","item":"Choice Band","index":742},
+	},
         
     "Dusclops":{
     "Leader Fantina":{"level":32,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Pressure","moves":["Shadow Punch","Will-O-Wisp","Protect","Pain Split"],"nature":"Impish","item":"Leftovers","index":160},
@@ -367,6 +404,7 @@ var SETDEX_SS = {
 	"Galactic Grunt 2 Veilstone":{"level":35,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Shield Dust","moves":["Toxic","Light Screen","Bug Buzz","Moonlight"],"nature":"Hardy","item":"(none)","index":247},
 	"Galactic Grunt 1 Lake Verity":{"level":50,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Shield Dust","moves":["Tailwind","Protect","Whirlwind","Hurricane"],"nature":"Lax","item":"(none)","index":427},
 	"Galactic Grunt 1 Galactic HQ":{"level":53,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Shield Dust","moves":["Tailwind","Protect","Whirlwind","Hurricane"],"nature":"Timid","item":"(none)","index":464},
+	"Elite Four Aaron 3":{"level":71,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Shield Dust","moves":["Bug Buzz","Sludge Bomb","Light Screen","Moonlight"],"nature":"Bold","item":"Light Clay","index":713},
     },
     
     "Eevee":{
@@ -416,12 +454,19 @@ var SETDEX_SS = {
     "Gentleman Backlot":{"level":33,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Magic Guard","moves":["Psychic","Power Gem","Luster Purge","Protect"],"nature":"Adamant","item":"Sitrus Berry","index":198},
     "Modstrate LassEmmie":{"level":34,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Magic Guard","moves":["Psychic","Shadow Ball","Aura Sphere","Dazzling Gleam"],"nature":"Naughty","item":"Life Orb","index":208},
 	"Illusioner Mrs. Moxi":{"level":63,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Magic Guard","moves":["Psychic","Shadow Ball","Aura Sphere","Trick"],"nature":"Modest","item":"Choice Specs","index":583},
+	"Elite Four Lucian 1":{"level":74,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Synchronize","moves":["Psychic","Dazzling Gleam","Aura Sphere","Power Gem"],"nature":"Naive","item":"Wise Glasses","index":770},
+	"Elite Four Lucian 2":{"level":74,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Magic Guard","moves":["Psychic","Aura Sphere","Reflect","Light Screen"],"nature":"Hasty","item":"Light Clay","index":775},
     },
     
     "Exeggcute":{
     "Psychic Lindsey":{"level":17,"ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Chlorophyll","moves":["Leech Seed","Bullet Seed","Confusion","Reflect"],"nature":"Lax","item":"(none)","index":79},
     "Lass Caroline":{"level":22,"ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Chlorophyll","moves":["Sleep Powder","Poison Powder", "Stune Spore", "Leech Seed"],"nature":"Gentle","item":"(none)","index":95},
     },
+
+	"Exeggutor":{
+	"Elite Four Lucian 2":{"level":74,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Chlorophyll","moves":["Psychic","Giga Drain","Sleep Powder","Leech Seed"],"nature":"Quiet","item":"Occa Berry","index":779},
+	"Elite Four Lucian 4":{"level":74,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Chlorophyll","moves":["Psychic","Giga Drain","Sleep Powder","Leech Seed"],"nature":"Rash","item":"Occa Berry","index":789},
+	},
 
 	"Exploud":{
 	"Head-In-Clouds Whacko2":{"level":37,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Soundproof","moves":["Flamethrower","Focus Blast","Ice Beam","Surf"],"nature":"Docile","item":"Choice Scarf","index":229},
@@ -442,6 +487,7 @@ var SETDEX_SS = {
 	"Galactic Grunt 6 Galactic HQ":{"level":53,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Sturdy","moves":["Drill Run","Explosion","Iron Defense","Double-Edge"],"nature":"Lonely","item":"(none)","index":477},
 	"Galactic Grunt 5 Mt. Coronet":{"level":55,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Sturdy","moves":["Drill Run","Explosion","Iron Defense","Double-Edge"],"nature":"Hasty","item":"(none)","index":506},
 	"Veteran Brenden":{"level":66,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Sturdy","moves":["Gyro Ball","Payback","Protect","Bug Bite"],"nature":"Lonely","item":"(none)","index":640},
+	"Elite Four Aaron 2":{"level":71,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sturdy","moves":["Gyro Ball","Bug Bite","Drill Run","Toxic Spikes"],"nature":"Adamant","item":"Leftovers","index":706},
 	},
     
     "Flareon":{
@@ -451,6 +497,7 @@ var SETDEX_SS = {
 	"PKMN Trainer Lucas Route 210 - Taillow":{"level":44,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Guts","moves":["Flare Blitz","Play Rough","Close Combat","Will-O-Wisp"],"nature":"Modest","item":"Muscle Band","index":354},
 	"PKMN Trainer Dawn 224 - Taillow":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Guts","moves":["Flare Blitz","Play Rough","Close Combat","Wild Charge"],"nature":"Quiet","item":"Passho Berry","index":659},
 	"PKMN Trainer Lucas 224 - Taillow":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Guts","moves":["Flare Blitz","Play Rough","Close Combat","Wild Charge"],"nature":"Careful","item":"Passho Berry","index":677},
+	"Elite Four Flint 1":{"level":73,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Guts","moves":["Flare Blitz","Play Rough","Wild Charge","Close Combat"],"nature":"Lonely","item":"Choice Band","index":747},
     },
 
 	"Floatzel":{
@@ -459,6 +506,7 @@ var SETDEX_SS = {
 
 	"Flygon":{
 	"Dragon Tamer Clinton":{"level":64,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Compound Eyes","moves":["Bug Buzz","Dragon Pulse","Earth Power","Hurricane"],"nature":"Sassy","item":"(none)","index":615},
+	"Elite Four Aaron 4":{"level":71,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Compound Eyes","moves":["Bug Buzz","Draco Meteor","Fire Blast","Earth Power"],"nature":"Timid","item":"White Herb","index":719},
 	},
 
 	"Froslass":{
@@ -469,14 +517,24 @@ var SETDEX_SS = {
 	"Gallade":{
 	"Leader Maylene":{"level":38,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Steadfast","moves":["Drain Punch","Zen Headbutt","Light Screen","Reflect"],"nature":"Brave","item":"Light Clay","index":241},
 	"Castle Valet Darach":{"level":48,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Steadfast","moves":["Psycho Cut","Night Slash","Close Combat","Leaf Blade"],"nature":"Docile","item":"Scope Lens","index":365},
+	"Elite Four Lucian 1":{"level":75,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Steadfast","moves":["Psycho Cut","Close Combat","Leaf Blade","Night Slash"],"nature":"Lonely","item":"Scope Lens","index":774},
+	"Elite Four Lucian 2":{"level":75,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Steadfast","moves":["Psycho Cut","Close Combat","Leaf Blade","Night Slash"],"nature":"Jolly","item":"Scope Lens","index":780},
+	"Elite Four Lucian 3":{"level":75,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Steadfast","moves":["Psycho Cut","Close Combat","Leaf Blade","Night Slash"],"nature":"Jolly","item":"Scope Lens","index":786},
+	"Elite Four Lucian 4":{"level":75,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Steadfast","moves":["Psycho Cut","Close Combat","Leaf Blade","Night Slash"],"nature":"Jolly","item":"Scope Lens","index":792},
 	},
 
 	"Garchomp":{
 	"Nuzlocke Haters Steb & Bobr Sunyshore":{"level":60,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Rough Skin","moves":["Iron Head","Dragon Claw","Earthquake","Swords Dance"],"nature":"Timid","item":"Yache Berry","index":541},
+	"Champion Cynthia 1":{"level":78,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Rough Skin","moves":["Earthquake","Outrage","Stone Edge","Swords Dance"],"nature":"Jolly","item":"Yache Berry","index":798},
+	"Champion Cynthia 2":{"level":78,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Rough Skin","moves":["Earthquake","Outrage","Stone Edge","Swords Dance"],"nature":"Hasty","item":"Yache Berry","index":804},
+	"Champion Cynthia 3":{"level":78,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Rough Skin","moves":["Earthquake","Outrage","Stone Edge","Swords Dance"],"nature":"Hasty","item":"Yache Berry","index":810},
+	"Champion Cynthia 4":{"level":78,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Rough Skin","moves":["Earthquake","Outrage","Stone Edge","Swords Dance"],"nature":"Hasty","item":"Yache Berry","index":816},
 	},
 
 	"Gardevoir":{"Ace Trainer Maya":{"level":35,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Synchronize","moves":["Psychic","Magical Leaf","Shadow Ball","Dazzling Gleam"],"nature":"Adamant","item":"(none)","index":224},
 	"Ace Trainer Brenda":{"level":48,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Synchronize","moves":["Calm Mind","Moonblast","Imprison","Captivate"],"nature":"Brave","item":"(none)","index":398},
+	"Elite Four Lucian 3":{"level":74,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Synchronize","moves":["Psychic","Moonblast","Thunderbolt","Aura Sphere"],"nature":"Timid","item":"Wise Glasses","index":783},
+	"Elite Four Lucian 4":{"level":74,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Synchronize","moves":["Psychic","Moonblast","Thunderbolt","Aura Sphere"],"nature":"Timid","item":"Wise Glasses","index":788},
     },
         
     "Gastly":{
@@ -514,12 +572,14 @@ var SETDEX_SS = {
 
 	"Girafarig":{
 	"Psychic Abigal":{"level":34,"ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Inner Focus","moves":["Crunch","Magic Coat","Zen Headbutt","Uproar"],"nature":"Mild","item":"(none)","index":251},
+	"Elite Four Lucian 2":{"level":74,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Inner Focus","moves":["Psychic","Thunderbolt","Shadow Ball","Earthquake"],"nature":"Hasty","item":"Colbur Berry","index":776},
 	},
     
     "Glaceon":{
     "Modstrate LassEmmie":{"level":34,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Filter","moves":["Blizzard"],"nature":"Sassy","item":"Choice Specs","index":206},
 	"Leader Candice":{"level":55,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Filter","moves":["Blizzard","Shadow Ball","Earth Power","Double Team"],"nature":"Bold","item":"Bright Powder","index":459},
 	"Illusioner Mrs. Moxi":{"level":63,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Filter","moves":["Ice Beam","Extrasensory","Earth Power","Grass Knot"],"nature":"Careful","item":"Wise Glasses","index":584},
+	"Champion Cynthia 3":{"level":77,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Filter","moves":["Blizzard","Earth Power","Extrasensory","Shadow Ball"],"nature":"Modest","item":"Choice Specs","index":809},
     },
         
     "Glameow":{
@@ -534,6 +594,9 @@ var SETDEX_SS = {
 
 	"Gliscor":{
 	"Nuzlocke Haters Steb & Bobr Route 213":{"level":39,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Poison Heal","moves":["Roost","Drill Run","Facade","Swords Dance"],"nature":"Sassy","item":"Toxic Orb","index":258},
+	"Elite Four Bertha 1":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Poison Heal","moves":["Earthquake","Wing Attack","Protect","Roost"],"nature":"Naive","item":"Toxic Orb","index":723},
+	"Elite Four Bertha 2":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Poison Heal","moves":["Earthquake","X-Scissor","Protect","Roost"],"nature":"Impish","item":"Toxic Orb","index":729},
+
 	},
         
     "Gloom":{"Aroma Lady Jenna":{"level":23,"ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Chlorophyll","moves":["Moonlight","Sludge","Lucky Chant","Mega Drain"],"nature":"Sassy","item":"(none)","index":99},
@@ -555,6 +618,7 @@ var SETDEX_SS = {
 
 	"Golem":{
 	"Veteran Edgar":{"level":64,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Rock Head","moves":["Stone Edge","Earthquake","Hammer Arm","Explosion"],"nature":"Brave","item":"(none)","index":613},
+	"Elite Four Bertha 1":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Rock Head","moves":["Earthquake","Stone Edge","Thunder Punch","Explosion"],"nature":"Naughty","item":"Focus Sash","index":724},
 	},
 
 	"Golduck":{
@@ -629,6 +693,8 @@ var SETDEX_SS = {
 	"PKMN Trainer Barry Pokemon League - Cleffa":{"level":70,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Guts","moves":["Megahorn","Close Combat","Stone Edge","Protect"],"nature":"Calm","item":"Toxic Orb","index":680},
 	"PKMN Trainer Barry Pokemon League - Gastly":{"level":70,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Guts","moves":["Megahorn","Close Combat","Stone Edge","Protect"],"nature":"Calm","item":"Toxic Orb","index":686},
 	"PKMN Trainer Barry Pokemon League - Taillow":{"level":70,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Guts","moves":["Megahorn","Close Combat","Stone Edge","Protect"],"nature":"Naive","item":"Toxic Orb","index":692},
+	"Elite Four Aaron 1":{"level":71,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Guts","moves":["Megahorn","Close Combat","Stone Edge","Night Slash"],"nature":"Adamant","item":"Choice Scarf","index":699},
+	"Elite Four Aaron 3":{"level":71,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Guts","moves":["Megahorn","Close Combat","Stone Edge","Protect"],"nature":"Adamant","item":"Toxic Orb","index":711},
 	},
         
     "Hippopotas":{
@@ -638,6 +704,8 @@ var SETDEX_SS = {
     "Hippowdon":{
     "Modstrate ShockinglyGongas":{"level":34,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sand Stream","moves":["Ice Fang","Slack Off","Stealth Rock","Roar"],"nature":"Careful","item":"Leftovers","index":213},
 	"Ace Trainer Jonah":{"level":48,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Sand Stream","moves":["Body Slam","Slack Off","Earthquake","Stealth Rock"],"nature":"Adamant","item":"(none)","index":397},
+	"Elite Four Bertha 1":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Sand Stream","moves":["Earthquake","Crunch","Stealth Rock","Slack Off"],"nature":"Adamant","item":"Leftovers","index":721},
+	"Elite Four Bertha 2":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Sand Stream","moves":["Earthquake","Crunch","Stealth Rock","Slack Off"],"nature":"Naughty","item":"Sitrus Berry","index":727},
     },
 
 	"Hitmonchan":{
@@ -675,14 +743,19 @@ var SETDEX_SS = {
 	"Galactic Boss Cyrus Galactic HQ":{"level":57,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Intimidate","moves":["Dark Pulse","Flamethrower","Sludge Bomb","Nasty Plot"],"nature":"Bashful","item":"Life Orb","index":484},
 	"Galactic Grunt 4 Mt. Coronet":{"level":55,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Intimidate","moves":["Flamethrower","Dark Pulse","Embargo","Nasty Plot"],"nature":"Hasty","item":"(none)","index":502},
 	"Galactic Boss Cyrus 2 Distortion World":{"level":59,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Intimidate","moves":["Dark Pulse","Flamethrower","Sludge Bomb","Nasty Plot"],"nature":"Hasty","item":"Life Orb","index":530},
+	"Elite Four Flint 1":{"level":73,"ivs":{"hp":28,"at":28,"df":28,"sa":28,"sd":28,"sp":28,},"ability":"Intimidate","moves":["Fire Blast","Dark Pulse","Solar Beam","Sludge Bomb"],"nature":"Hasty","item":"Choice Scarf","index":746},
+	"Elite Four Flint 4":{"level":73,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Intimidate","moves":["Fire Blast","Dark Pulse","Solar Beam","Sludge Bomb"],"nature":"Hasty","item":"Choice Specs","index":764},
 	},
 
 	"Hypno":{
 	"Galactic Grunt 2 Spear Pillar":{"level":56,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Insomnia","moves":["Drain Punch","Nasty Plot","Guard Swap","Future Sight"],"nature":"Sassy","item":"(none)","index":516},
+	"Elite Four Lucian 3":{"level":74,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Insomnia","moves":["Psychic","Hypnosis","Reflect","Light Screen"],"nature":"Relaxed","item":"Light Clay","index":781},
 	},
 
 	"Infernape":{
 	"Leader Maylene":{"level":38,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Iron Fist","moves":["Close Combat","Rock Slide","Fire Punch","Mach Punch"],"nature":"Hasty","item":"Life Orb","index":239},
+	"Elite Four Flint 1":{"level":73,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Iron Fist","moves":["Flare Blitz","Close Combat","Thunder Punch","Grass Knot"],"nature":"Hasty","item":"Expert Belt","index":749},
+	"Elite Four Flint 2":{"level":73,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Iron Fist","moves":["Flare Blitz","Close Combat","Thunder Punch","Gunk Shot"],"nature":"Adamant","item":"Expert Belt","index":755},
 	},
         
     "Ivysaur":{
@@ -710,6 +783,7 @@ var SETDEX_SS = {
 	"Jynx":{
 	"Pokemon Ranger Allison":{"level":39,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Dry Skin","moves":["Wake-Up Slap","Ice Beam","Wring Out","Body Slam"],"nature":"Lax","item":"(none)","index":263},
 	"Ace Trainer Brandi":{"level":65,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Dry Skin","moves":["Psychic","Ice Beam","Lovely Kiss","Focus Blast"],"nature":"Adamant","item":"(none)","index":630},
+	"Elite Four Lucian 3":{"level":74,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Dry Skin","moves":["Psycho Boost","Blizzard","Petal Dance","Fake Out"],"nature":"Naive","item":"White Herb","index":784},
 	}, 
 
 	"Kabutops":{
@@ -804,6 +878,9 @@ var SETDEX_SS = {
 	"Ace Trainer Brenda":{"level":48,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Scrappy","moves":["Flail","Bounce","Focus Punch","Healing  Wish"],"nature":"Bold","item":"(none)","index":399},
 	"PKMN Trainer Dawn 224 - Cleffa":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Scrappy","moves":["Mega Kick","High Jump Kick","Fake Out","Agility"],"nature":"Serious","item":"Focus Sash","index":646},
 	"PKMN Trainer Dawn 224 - Gastly":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Scrappy","moves":["Mega Kick","High Jump Kick","Fake Out","Agility"],"nature":"Modest","item":"Focus Sash","index":652},	"PKMN Trainer Dawn 224 - Taillow":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Scrappy","moves":["Mega Kick","High Jump Kick","Fake Out","Agility"],"nature":"Impish","item":"Focus Sash","index":658},
+	"Elite Four Flint 2":{"level":73,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Scrappy","moves":["High Jump Kick","Mega Kick","Blaze Kick","Sunny Day"],"nature":"Hasty","item":"Focus Sash","index":752},
+	"Elite Four Flint 3":{"level":73,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Scrappy","moves":["High Jump Kick","Mega Kick","Blaze Kick","Fake Out"],"nature":"Hasty","item":"Muscle Band","index":760},
+	"Champion Cynthia 4":{"level":77,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Scrappy","moves":["High Jump Kick","Mega Kick","Ice Punch","Fake Out"],"nature":"Hasty","item":"Life Orb","index":814},
     },
         
     "Lotad":{"Lass Caroline":{"level":22,"ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Swift Swim","moves":["Giga Drain", "Bubble Beam", "Natural Gift", "Mega Drain"],"nature":"Modest","item":"(none)","index":93},
@@ -814,6 +891,9 @@ var SETDEX_SS = {
 	"Pokemon Trainer Riley":{"level":50,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Steadfast","moves":["High Jump Kick","Meteor Mash","Blaze Kick","Bullet Punch"],"nature":"Impish","item":"Life Orb","index":394},
 	"Black Belt David":{"level":51,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Steadfast","moves":["Meteor Mash","Aura Sphere","Dark Pulse","Blaze Kick"],"nature":"Impish","item":"(none)","index":412},
 	"Black Belt Luke":{"level":51,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Adaptability","moves":["Dragon Pulse","Blaze Kick","Close Combat","Meteor Mash"],"nature":"Adamant","item":"(none)","index":441},
+	"Champion Cynthia 1":{"level":77,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Adaptability","moves":["High Jump Kick","Meteor Mash","Extreme Speed","Ice Punch"],"nature":"Jolly","item":"Life Orb","index":796},
+	"Champion Cynthia 2":{"level":77,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Adaptability","moves":["Aura Sphere","Flash Cannon","Dark Pulse","Vacuum Wave"],"nature":"Timid","item":"Life Orb","index":803},
+	"Champion Cynthia 3":{"level":77,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Adaptability","moves":["High Jump Kick","Meteor Mash","Bullet Punch","Stone Edge"],"nature":"Hasty","item":"Life Orb","index":808},
 	},
 
 	"Ludicolo":{
@@ -847,6 +927,7 @@ var SETDEX_SS = {
 
 	"Magcargo":{
 	"Ace Trainer Sydney":{"level":63,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Solid Rock","moves":["Overheat","Power Gem","Earth Power","Recover"],"nature":"Naive","item":"(none)","index":596},
+	"Elite Four Flint 3":{"level":73,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Solid Rock","moves":["Fire Blast","Earth Power","Power Gem","Solar Beam"],"nature":"Quiet","item":"Focus Sash","index":759},
 	},
 
 	"Magmar":
@@ -856,6 +937,10 @@ var SETDEX_SS = {
 	"Magmortar":{
 	"Ace Trainer Dalton":{"level":52,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Flame Body","moves":["Flamethrower","Thunderbolt","Psychic","Focus Blast"],"nature":"Impish","item":"(none)","index":436},
 	"Commander Saturn Galactic HQ":{"level":56,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Flame Body","moves":["Fire Blast","Thunderbolt","Aura Sphere","Psychic"],"nature":"Relaxed","item":"Choice Specs","index":491},
+	"Elite Four Flint 1":{"level":74,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Flame Body","moves":["Fire Blast","Thunderbolt","Aura Sphere","Solar Beam"],"nature":"Timid","item":"Life Orb","index":750},
+	"Elite Four Flint 2":{"level":74,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Flame Body","moves":["Fire Blast","Thunderbolt","Aura Sphere","Solar Beam"],"nature":"Modest","item":"Life Orb","index":756},
+	"Elite Four Flint 3":{"level":74,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Flame Body","moves":["Fire Blast","Thunderbolt","Aura Sphere","Solar Beam"],"nature":"Modest","item":"Life Orb","index":762},
+	"Elite Four Flint 4":{"level":74,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Flame Body","moves":["Fire Blast","Thunderbolt","Aura Sphere","Solar Beam"],"nature":"Rash","item":"Life Orb","index":768},
 	},
 
 	"Magnezone":{
@@ -886,6 +971,8 @@ var SETDEX_SS = {
 	"PKMN Trainer Lucas 224 - Cleffa":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Thick Fat","moves":["Earthquake","Icicle Crash","Stone Edge","Superpower"],"nature":"Naughty","item":"Choice Band","index":662},
 	"PKMN Trainer Lucas 224 - Gastly":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Thick Fat","moves":["Earthquake","Icicle Crash","Stone Edge","Superpower"],"nature":"Relaxed","item":"Choice Band","index":668},
 	"PKMN Trainer Lucas 224 - Taillow":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Thick Fat","moves":["Earthquake","Icicle Crash","Stone Edge","Superpower"],"nature":"Timid","item":"Choice Band","index":674},
+	"Elite Four Bertha 3":{"level":72,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Thick Fat","moves":["Earthquake","Icicle Crash","Stone Edge","Ice Shard"],"nature":"Jolly","item":"Passho Berry","index":736},
+	"Elite Four Bertha 4":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Thick Fat","moves":["Earthquake","Icicle Crash","Stone Edge","Ice Shard"],"nature":"Jolly","item":"Passho Berry","index":741},
 	}, 
 
 	"Manectric":{
@@ -908,7 +995,8 @@ var SETDEX_SS = {
     },
 
 	"Masquerain":{"Head-In-Clouds Whacko2":{"level":37,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Intimidate","moves":["Leech Life","Aerial Ace","Fire Spin","Swords Dance"],"nature":"Adamant","item":"Bright Powder","index":227},
-	"Ace Trainer Jonah":{"level":48,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Intimidate","moves":["Stun Spore","Air Slash","Hydro Pump","Bug Buzz"],"nature":"Gentle","item":"(none)","index":395}
+	"Ace Trainer Jonah":{"level":48,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Intimidate","moves":["Stun Spore","Air Slash","Hydro Pump","Bug Buzz"],"nature":"Gentle","item":"(none)","index":395},
+	"Elite Four Aaron 3":{"level":71,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Intimidate","moves":["Hydro Pump","Bug Buzz","Hurricane","Blizzard"],"nature":"Hasty","item":"Wise Glasses","index":709},
     },
         
     "Mawile":{
@@ -919,6 +1007,7 @@ var SETDEX_SS = {
 	"Medicham":{
 	"Leader Maylene":{"level":38,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Pure Power","moves":["High Jump Kick","Zen Headbutt","Ice Punch","Fake Out"],"nature":"Naive","item":"Sitrus Berry","index":237},
 	"Ace Trainer Brenda":{"level":48,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Pure Power","moves":["Psych Up","Zen Headbutt","Acupressure","Power Trick"],"nature":"Mild","item":"(none)","index":400},
+	"Elite Four Lucian 2":{"level":74,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Pure Power","moves":["Zen Headbutt","High Jump Kick","Thunder Punch","Ice Punch"],"nature":"Naive","item":"Choice Scarf","index":777},
 	},
 
 	"Meganium":{
@@ -930,6 +1019,8 @@ var SETDEX_SS = {
 	"Pokemon Trainer Riley":{"level":49,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Iron Fist","moves":["Meteor Mash","Earthquake","Zen Headbutt","Agility"],"nature":"Impish","item":"Liechi Berry","index":391},
 	"Ace Trainer Cesar":{"level":50,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Iron Fist","moves":["Meteor Mash","Zen Headbutt","Ice Punch","Rock Slide"],"nature":"Serious","item":"(none)","index":409},
 	"Ace Trainer Micah":{"level":65,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Iron Fist","moves":["Bullet Punch","Zen Headbutt","Hammer Arm","Meteor Mash"],"nature":"Bashful","item":"(none)","index":625},
+	"Elite Four Lucian 1":{"level":74,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Iron Fist","moves":["Zen Headbutt","Meteor Mash","Earthquake","Explosion"],"nature":"Naughty","item":"Muscle Band","index":773},
+	"Elite Four Lucian 4":{"level":74,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Iron Fist","moves":["Zen Headbutt","Meteor Mash","Earthquake","Explosion"],"nature":"Naughty","item":"Muscle Band","index":791},
 	},
         
     "Metang":
@@ -947,6 +1038,10 @@ var SETDEX_SS = {
     "Milotic":{
     "Modstrate LassEmmie":{"level":34,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Marvel Scale","moves":["Muddy Water","Calm Mind","Rest","Sleep Talk"],"nature":"Docile","item":"Flame Orb","index":207},
 	"Pokemon Ranger Allison":{"level":39,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Marvel Scale","moves":["Hypnosis","Attract","Moonblast","Dragon Pulse"],"nature":"Serious","item":"(none)","index":261},
+	"Champion Cynthia 1":{"level":77,"ivs":{"hp":28,"at":28,"df":28,"sa":28,"sd":28,"sp":28,},"ability":"Marvel Scale","moves":["Surf","Ice Beam","Recover","Hypnosis"],"nature":"Calm","item":"Leftovers","index":797},
+	"Champion Cynthia 2":{"level":77,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Marvel Scale","moves":["Scald","Ice Beam","Light Screen","Recover"],"nature":"Bold","item":"Leftovers","index":799},
+	"Champion Cynthia 3":{"level":77,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Marvel Scale","moves":["Scald","Ice Beam","Recover","Protect"],"nature":"Calm","item":"Leftovers","index":806},
+	"Champion Cynthia 4":{"level":77,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Marvel Scale","moves":["Hydro Pump","Ice Beam","Rest","Sleep Talk"],"nature":"Calm","item":"Leftovers","index":815},
     },
 
 	"Minun":{
@@ -961,7 +1056,12 @@ var SETDEX_SS = {
     "Leader Fantina":{"level":33,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Levitate","moves":["Shadow Ball","Power Gem","Calm Mind","Dazzling Gleam"],"nature":"Naive","item":"Sitrus Berry","index":164},
 	"Nuzlocke Haters Steb & Bobr Route 213":{"level":39,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Levitate","moves":["Moonblast","Shadow Ball","Psychic","Thunderbolt"],"nature":"Bashful","item":"Sitrus Berry","index":256},
 	"Ace Trainer Mariah":{"level":63,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Levitate","moves":["Shadow Ball","Moonblast","Thunderbolt","Power Gem"],"nature":"Adamant","item":"(none)","index":592},
+	"Champion Cynthia 4":{"level":77,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Levitate","moves":["Shadow Ball","Moonblast","Thunderbolt","Thunder Wave"],"nature":"Timid","item":"Wise Glasses","index":813},
     },
+
+	"Mr. Mime":{
+	"Elite Four Lucian 1":{"level":74,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Filter","moves":["Psychic","Dazzling Gleam","Reflect","Light Screen"],"nature":"Naive","item":"Light Clay","index":769},
+	},
 
 	"Muk":{
 	"Galactic Grunt 1 Iron Island":{"level":46,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Stench","moves":["Baton Pass","Gust","Signal Beam","Zen Headbutt"],"nature":"Naughty","item":"(none)","index":403},
@@ -1017,6 +1117,8 @@ var SETDEX_SS = {
     
     "Ninetales":{
     "Modstrate DailyLauren":{"level":34,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Drought","moves":["Heat Wave","Will-O-Wisp","Reflect","Light Screen"],"nature":"Mild","item":"Light Clay","index":201},
+	"Elite Four Flint 1":{"level":73,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Drought","moves":["Overheat","Solar Beam","Moonblast","Confuse Ray"],"nature":"Timid","item":"White Herb","index":745},
+	"Elite Four Flint 3":{"level":73,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Drought","moves":["Overheat","Solar Beam","Moonblast","Hypnosis"],"nature":"Modest","item":"White Herb","index":757},
     },
     
     "Ninjask":{
@@ -1093,6 +1195,8 @@ var SETDEX_SS = {
 	"Pinsir":{
 	"Ace Trainer Ernest":{"level":41,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Hyper Cutter","moves":["Megahorn","Close Combat","Knock Off"],"nature":"Jolly","item":"(none)","index":308},
 	"Galactic Grunt 6 Mt. Coronet":{"level":55,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Hyper Cutter","moves":["Thrash","Megahorn","Bulldoze","Guillotine"],"nature":"Serious","item":"(none)","index":510},
+	"Elite Four Aaron 2":{"level":71,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Hyper Cutter","moves":["Megahorn","Close Combat","Stone Edge","Earthquake"],"nature":"Adamant","item":"Expert Belt","index":705},
+	"Elite Four Aaron 4":{"level":71,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Hyper Cutter","moves":["Megahorn","Close Combat","Stone Edge","Earthquake"],"nature":"Adamant","item":"Expert Belt","index":717},
 	},
 
 	"Plusle":{
@@ -1141,7 +1245,8 @@ var SETDEX_SS = {
     },
 
 	"Quagsire":{
-	"Leader Wake":{"level":43,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Damp","moves":["Aqua Tail","Earthquake","Recover","Ice Punch"],"nature":"Adamant","item":"Rindo Berry","index":297},
+	"Leader Wake":{"level":43,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Water Absorb","moves":["Aqua Tail","Earthquake","Recover","Ice Punch"],"nature":"Adamant","item":"Rindo Berry","index":297},
+	"Elite Four Bertha 4":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Water Absorb","moves":["Earthquake","Aqua Tail","Yawn","Recover"],"nature":"Careful","item":"Sitrus Berry","index":740},
 	},
     
     "Raichu":{
@@ -1165,6 +1270,8 @@ var SETDEX_SS = {
 
 	"Rapidash":{
 	"Veteran Brian":{"level":43,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Flame Body","moves":["Flare Blitz","Double-Edge","Megahorn","Jump Kick"],"nature":"Rash","item":"(none)","index":318},
+	"Elite Four Flint 1":{"level":73,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Flame Body","moves":["Flare Blitz","Wild Charge","Megahorn","Drill Run"],"nature":"Hasty","item":"Power Herb","index":748},
+	"Elite Four Flint 2":{"level":73,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Flame Body","moves":["Flare Blitz","Wild Charge","Megahorn","Sunny Day"],"nature":"Naive","item":"Heat Rock","index":751},
 	},
 
 	"Rhydon":{
@@ -1173,6 +1280,10 @@ var SETDEX_SS = {
 
 	"Rhyperior":{
 	"Commander Saturn Galactic HQ":{"level":56,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Solid Rock","moves":["Stone Edge","Earthquake","Megahorn","Hammer Arm"],"nature":"Bold","item":"Choice Band","index":490},
+	"Elite Four Bertha 1":{"level":73,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Solid Rock","moves":["Earthquake","Stone Edge","Megahorn","Ice Punch"],"nature":"Brave","item":"Choice Band","index":726},
+	"Elite Four Bertha 2":{"level":73,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Solid Rock","moves":["Earthquake","Stone Edge","Megahorn","Thunder Punch"],"nature":"Naughty","item":"Choice Band","index":732},
+	"Elite Four Bertha 3":{"level":73,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Solid Rock","moves":["Earthquake","Stone Edge","Megahorn","Fire Punch"],"nature":"Naughty","item":"Choice Band","index":738},
+	"Elite Four Bertha 4":{"level":73,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Solid Rock","moves":["Earthquake","Stone Edge","Megahorn","Ice Punch"],"nature":"Naughty","item":"Choice Band","index":744},
 	},
         
     "Riolu":{
@@ -1186,6 +1297,8 @@ var SETDEX_SS = {
     "Roserade":{
     "Leader Gardenia":{"level":26,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Technician","moves":["Magical Leaf","Sludge","Dazzling Gleam","Extrasensory"],"nature":"Timid","item":"Sitrus Berry","index":108},
 	"Ace Trainer Maya":{"level":35,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Technician","moves":["Giga Drain","Sludge Bomb","Weather Ball","Stun Spore"],"nature":"Calm","item":"(none)","index":225},
+	"Champion Cynthia 1":{"level":77,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Technician","moves":["Leaf Storm","Sludge Bomb","Dazzling Gleam","Sleep Powder"],"nature":"Timid","item":"White Herb","index":794},
+	"Champion Cynthia 4":{"level":77,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Technician","moves":["Energy Ball","Sludge Bomb","Shadow Ball","Dazzling Gleam"],"nature":"Modest","item":"Choice Scarf","index":812},
     },
         
     "Rotom-Heat":{"Special Grade Stonkedd":{"level":24,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Levitate","moves":["Protect","Overheat","Discharge","Will-O-Wisp"],"nature":"Naughty","item":"White Herb","index":91},
@@ -1218,7 +1331,15 @@ var SETDEX_SS = {
     {"Elite Four Aaron Route 208":{"level":31,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Technician","moves":["X-Scissor","Bullet Punch","Iron Head","Swords Dance"],"nature":"Adamant","item":"Muscle Band","index":157},
     "Modstrate NiftyMacaroon":{"level":34,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Technician","moves":["Bug Bite","Bullet Punch","Swords Dance","Roost"],"nature":"Adamant","item":"Metal Coat","index":210},
 	"Ace Trainer Cesar":{"level":50,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Technician","moves":["Bullet Punch","X-Scissor","Night Slash","Iron Head"],"nature":"Sassy","item":"(none)","index":408},
+	"Elite Four Aaron 1":{"level":71,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Technician","moves":["Bug Bite","Iron Head","Bullet Punch","U-turn"],"nature":"Adamant","item":"Life Orb","index":698},
+	"Elite Four Aaron 3":{"level":71,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Technician","moves":["Bug Bite","Iron Head","Bullet Punch","U-turn"],"nature":"Adamant","item":"Life Orb","index":712},
+	"Elite Four Aaron 4":{"level":71,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Technician","moves":["Bug Bite","Iron Head","Bullet Punch","U-turn"],"nature":"Adamant","item":"Life Orb","index":718},
     },
+
+	"Scyther":{
+	"Elite Four Aaron 2":{"level":71,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Technician","moves":["Bug Bite","Aerial Ace","Quick Attack","U-turn"],"nature":"Naive","item":"Life Orb","index":704},
+	"Elite Four Aaron 4":{"level":71,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Technician","moves":["Bug Bite","Aerial Ace","Quick Attack","U-turn"],"nature":"Naive","item":"Life Orb","index":715},
+	},
 
 	"Seaking":{
 	"Swimmer Crystal":{"level":59,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Water Veil","moves":["Horn Drill","Bounce","Megahorn","Hydro Pump"],"nature":"Gentle","item":"(none)","index":577},
@@ -1284,6 +1405,7 @@ var SETDEX_SS = {
 
 	"Slowbro":{
 	"Sailor Samson":{"level":39,"ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Oblivious","moves":["Rain Dance","Psychic","Amnesia","Slack Off"],"nature":"Mild","item":"(none)","index":294},
+	"Elite Four Lucian 3":{"level":74,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Oblivious","moves":["Psychic","Scald","Flamethrower","Slack Off"],"nature":"Bold","item":"Leftovers","index":782},
 	},
         
     "Slowpoke":{
@@ -1319,6 +1441,9 @@ var SETDEX_SS = {
         
     "Spiritomb":{
     "Leader Fantina":{"level":32,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Pressure","moves":["Shadow Ball","Will-O-Wisp","Dark Pulse","Disable"],"nature":"Relaxed","item":"Zoom Lens","index":162},
+	"Champion Cynthia 1":{"level":77,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Pressure","moves":["Dark Pulse","Will-O-Wisp","Confuse Ray","Rest"],"nature":"Sassy","item":"Lum Berry","index":793},
+	"Champion Cynthia 2":{"level":77,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Pressure","moves":["Dark Pulse","Shadow Ball","Psychic","Hypnosis"],"nature":"Relaxed","item":"Wise Glasses","index":800},
+	"Champion Cynthia 3":{"level":77,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Pressure","moves":["Dark Pulse","Calm Mind","Rest","Sleep Talk"],"nature":"Relaxed","item":"Sitrus Berry","index":807},
     },
         
     "Spoink":{
@@ -1343,6 +1468,7 @@ var SETDEX_SS = {
 	"PKMN Trainer Barry Pokemon League - Cleffa":{"level":70,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Reckless","moves":["Double-Edge","Brave Bird","Close Combat","U-turn"],"nature":"Brave","item":"Choice Scarf","index":679},
 	"PKMN Trainer Barry Pokemon League - Gastly":{"level":70,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Reckless","moves":["Double-Edge","Brave Bird","Close Combat","U-turn"],"nature":"Gentle","item":"Choice Scarf","index":685},
 	"PKMN Trainer Barry Pokemon League - Taillow":{"level":70,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Reckless","moves":["Double-Edge","Brave Bird","Close Combat","U-turn"],"nature":"Serious","item":"Choice Scarf","index":691},
+	"Champion Cynthia 2":{"level":77,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Reckless","moves":["Brave Bird","Double-Edge","Close Combat","U-turn"],"nature":"Naughty","item":"Choice Scarf","index":802},
 	},
         
     "Starly":{
@@ -1357,6 +1483,8 @@ var SETDEX_SS = {
 	"Swimmer Gabrielle":{"level":59,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Illuminate","moves":["Recover","Swift","Psywave","Confuse Ray"],"nature":"Jolly","item":"(none)","index":581},
 	"Ace Trainer Sydney":{"level":63,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Illuminate","moves":["Hydro Pump","Psychic","Power Gem","Dazzling Gleam"],"nature":"Docile","item":"(none)","index":595},
 	"Pokemon Trainer Marley":{"level":65,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Illuminate","moves":["Hydro Pump","Blizzard","Thunder","Psychic"],"nature":"Docile","item":"Expert Belt","index":619},
+	"Elite Four Lucian 2":{"level":74,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Illuminate","moves":["Psychic","Hydro Pump","Ice Beam","Thunderbolt"],"nature":"Modest","item":"Life Orb","index":778},
+	"Elite Four Lucian 4":{"level":74,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Illuminate","moves":["Psychic","Hydro Pump","Ice Beam","Thunderbolt"],"nature":"Modest","item":"Life Orb","index":790},
 	},
         
     "Staryu":{
@@ -1366,6 +1494,7 @@ var SETDEX_SS = {
 	"Steelix":{
 	"Black Belt Ricky":{"level":51,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Rock Head","moves":["Iron Tail","Dig","Rock Slide","Thunder Fang"],"nature":"Naive","item":"(none)","index":406},
 	"Leader Byron":{"level":52,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Rock Head","moves":["Gyro Ball","Earthquake","Stone Edge","Explosion"],"nature":"Adamant","item":"Muscle Band","index":418},
+	"Elite Four Flint 2":{"level":73,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Rock Head","moves":["Iron Tail","Earthquake","Fire Fang","Crunch"],"nature":"Sassy","item":"Muscle Band","index":754},
 	},
         
     "Stunky":{
@@ -1376,6 +1505,7 @@ var SETDEX_SS = {
 
 	"Sudowoodo":{
 	"The Illusioned Moxi":{"level":54,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Rock Head","moves":["Head Smash","Earthquake","Counter","Explosion"],"nature":"Lonely","item":"Quick Claw","index":454},
+	"Elite Four Bertha 2":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Rock Head","moves":["Head Smash","Wood Hammer","Sucker Punch","Hammer Arm"],"nature":"Relaxed","item":"Passho Berry","index":728},
 	},
 
 	"Suicune":{
@@ -1388,6 +1518,10 @@ var SETDEX_SS = {
 
 	"Swalot":{
 	"Galactic Grunt 1 Mt. Coronet":{"level":54,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Liquid Ooze","moves":["Gastro Acid","Destiny Bond","Wring Out","Gunk Shot"],"nature":"Careful","item":"(none)","index":494},
+	},
+
+	"Swampert":{
+	"Elite Four Bertha 3":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Torrent","moves":["Earthquake","Aqua Tail","Rest","Sleep Talk"],"nature":"Adamant","item":"Lum Berry","index":734},
 	},
         
     "Swellow":{
@@ -1434,11 +1568,19 @@ var SETDEX_SS = {
 
 	"Togekiss":{
 	"Collector Ivan":{"level":45,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Serene Grace","moves":["Air Slash","Aura Sphere","Extreme Speed","Sky Attack"],"nature":"Impish","item":"(none)","index":363},
+	"Champion Cynthia 1":{"level":77,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Serene Grace","moves":["Air Slash","Thunder Wave","Roost","Moonblast"],"nature":"Bold","item":"Sitrus Berry","index":795},
+	"Champion Cynthia 3":{"level":77,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Serene Grace","moves":["Moonblast","Light Screen","Reflect","Tailwind"],"nature":"Quiet","item":"Light Clay","index":805},
+	},
+
+	"Torkoal":{
+    "Elite Four Flint 4":{"level":73,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Drought","moves":["Fire Blast","Earth Power","Stealth Rock","Solar Beam"],"nature":"Calm","item":"Focus Sash","index":763},
 	},
 
 	"Torterra":{
 	"Ace Trainer Alyssa":{"level":42,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Overgrow","moves":["Earthquake","Seed Bomb","Crunch","Iron Head"],"nature":"Mild","item":"(none)","index":306},
 	"Ace Trainer Sydney":{"level":63,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Overgrow","moves":["Earthquake","Crunch","Wood Hammer","Iron Head"],"nature":"Lax","item":"(none)","index":594},
+	"Elite Four Bertha 2":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Overgrow","moves":["Earthquake","Wood Hammer","Stone Edge","Leech Seed"],"nature":"Adamant","item":"Leftovers","index":730},
+	"Elite Four Bertha 4":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Overgrow","moves":["Earthquake","Wood Hammer","Stone Edge","Leech Seed"],"nature":"Brave","item":"Leftovers","index":743},
 	},
     
     "Toxicroak":{
@@ -1457,10 +1599,13 @@ var SETDEX_SS = {
 	"Typhlosion":{
 	"Ace Trainer Aran":{"level":54,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Adaptability","moves":["Lava Plume","Earth Power","Extrasensory","Protect"],"nature":"Relaxed","item":"(none)","index":446},
 	"Veteran Edgar":{"level":64,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Adaptability","moves":["Eruption","Focus Blast","Thunder Punch","Earth Power"],"nature":"Gentle","item":"(none)","index":614},
+	"Elite Four Flint 4":{"level":73,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Adaptability","moves":["Eruption","Extrasensory","Earth Power","Solar Beam"],"nature":"Timid","item":"Choice Scarf","index":767},
 	},
 
 	"Tyranitar":{
 	"Ace Trainer Aran":{"level":54,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sand Stream","moves":["Rock Slide","Crunch","Fire Blast","Protect"],"nature":"Quiet","item":"(none)","index":447},
+	"Elite Four Bertha 3":{"level":72,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sand Stream","moves":["Stone Edge","Crunch","Earthquake","Thunder Punch"],"nature":"Naughty","item":"Choice Scarf","index":733},
+	"Elite Four Bertha 4":{"level":72,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sand Stream","moves":["Stone Edge","Crunch","Earthquake","Fire Punch"],"nature":"Jolly","item":"Choice Scarf","index":739},
 	},
 
 	"Ursaring":{
@@ -1486,6 +1631,7 @@ var SETDEX_SS = {
 	"Galactic Grunt 1 Veilstone":{"level":35,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Tinted Lens","moves":["Baton Pass","Gust","Signal Beam","Zen Headbutt"],"nature":"Quirky","item":"(none)","index":245},
 	"Galactic Grunt 5 Galactic HQ":{"level":53,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Tinted Lens","moves":["Baton Pass","Psychic","Morning Sun","Buz Buzz"],"nature":"Impish","item":"(none)","index":475},
 	"Galactic Grunt 1 Spear Pillar":{"level":56,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Tinted Lens","moves":["Baton Pass","Psychic","Morning Sun","Buz Buzz"],"nature":"Relaxed","item":"(none)","index":512},
+	"Elite Four Aaron 2":{"level":71,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Tinted Lens","moves":["Bug Buzz","Sludge Bomb","Double Team","Psychic"],"nature":"Timid","item":"Wide Lens","index":703},
     },
     
     "Venonat":{
@@ -1498,6 +1644,7 @@ var SETDEX_SS = {
 
 	"Vespiquen":{
 	"Galactic Grunt 3 Galactic HQ":{"level":53,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Intimidate","moves":["Captivate","Swagger","Tailwind","Destiny Bond"],"nature":"Quirky","item":"(none)","index":470},
+	"Elite Four Aaron 1":{"level":71,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Intimidate","moves":["Attack Order","Defend Order","Heal Order","Hurricane"],"nature":"Brave","item":"Leftovers","index":700},
 	},
         
     "Wailmer":{
@@ -1540,6 +1687,7 @@ var SETDEX_SS = {
 
 	"Whiscash":{
 	"Swimmer Oscar":{"level":59,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Oblivious","moves":["Earthquake","Dragon Dance","Hydro Pump","Fissure"],"nature":"Gentle","item":"(none)","index":575},
+	"Elite Four Bertha 1":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Oblivious","moves":["Aqua Tail","Earthquake","Bounce","Dragon Dance"],"nature":"Careful","item":"Life Orb","index":722},
 	},
         
     "Whismur":{
@@ -1572,6 +1720,8 @@ var SETDEX_SS = {
 	"Galactic Grunt 6 Galactic HQ":{"level":53,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Speed Boost","moves":["Pursuit","U-turn","Screech","Bug Buzz"],"nature":"Bashful","item":"(none)","index":479},
 	"Galactic Grunt 4 Mt. Coronet":{"level":55,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Speed Boost","moves":["Pursuit","U-turn","Screech","Bug Buzz"],"nature":"Lax","item":"(none)","index":503},
 	"Commander Mars Spear Pillar":{"level":57,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Speed Boost","moves":["Bug Buzz","Hurricane","Shadow Ball","Detect"],"nature":"Calm","item":"Wise Glasses","index":515},
+	"Elite Four Aaron 1":{"level":71,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Speed Boost","moves":["Bug Buzz","Hurricane","Giga Drain","Protect"],"nature":"Timid","item":"Wise Glasses","index":697},
+	"Elite Four Aaron 4":{"level":71,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Speed Boost","moves":["Bug Buzz","Hurricane","Psychic","Detect"],"nature":"Timid","item":"Wise Glasses","index":716},
 	},
         
     "Zigzagoon":{
