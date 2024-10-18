@@ -3792,11 +3792,11 @@ const DPP_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
 const DPP: {[name: string]: SpeciesData} = extend(true, {}, ADV, DPP_PATCH);
 
 const BW_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
-  'Rotom-Fan': {types: ['Electric', 'Flying']},
-  'Rotom-Frost': {types: ['Electric', 'Ice']},
-  'Rotom-Heat': {types: ['Electric', 'Fire']},
-  'Rotom-Mow': {types: ['Electric', 'Grass']},
-  'Rotom-Wash': {types: ['Electric', 'Water']},
+  'Rotom-Fan': {types: ['Electric', 'Flying'], bs: {"hp": 50, "at": 50, "df": 77, "sa": 95, "sd": 77, "sp": 101}},
+  'Rotom-Frost': {types: ['Electric', 'Ice'],  bs: {"hp": 50, "at": 50, "df": 77, "sa": 95, "sd": 77, "sp": 101}},
+  'Rotom-Heat': {types: ['Electric', 'Fire'],  bs: {"hp": 50, "at": 50, "df": 77, "sa": 95, "sd": 77, "sp": 101}},
+  'Rotom-Mow': {types: ['Electric', 'Grass'],  bs: {"hp": 50, "at": 50, "df": 77, "sa": 95, "sd": 77, "sp": 101}},
+  'Rotom-Wash': {types: ['Electric', 'Water'], bs: {"hp": 50, "at": 50, "df": 77, "sa": 95, "sd": 77, "sp": 101}},
 };
 
 const BW: {[name: string]: SpeciesData} = extend(true, {}, DPP, BW_PATCH);
