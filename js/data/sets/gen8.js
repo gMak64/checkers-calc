@@ -101,7 +101,7 @@ var SETDEX_SS = {
     },         
         
     "Azumarill":{
-    "Nuzlocke Haters Steb & Bobr Route 205":{"level":20,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Huge Power","moves":["Aqua Jet","Waterfall","Body Slam","Brick Break"],"nature":"Quiet","item":"Mystic Water","index":70},
+    "Nuzlocke Haters Steb & Bobr Route 205":{"level":19,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Huge Power","moves":["Aqua Jet","Waterfall","Body Slam","Brick Break"],"nature":"Hasty","item":"Mystic Water","index":70},
 	"Nuzlocke Haters Steb & Bobr Route 213":{"level":39,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Huge Power","moves":["Play Rough","Aqua Jet","Body Slam","Ice Punch"],"nature":"Timid","item":"Leftovers","index":255},
 	"PKMN Trainer Barry Pastoria - Cleffa":{"level":41,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Huge Power","moves":["Aqua Tail","Play Rough","Body Slam","Aqua Jet"],"nature":"Docile","item":"Life Orb","index":270},
 	"PKMN Trainer Barry Pastoria - Gastly":{"level":41,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Huge Power","moves":["Aqua Tail","Play Rough","Body Slam","Aqua Jet"],"nature":"Mild","item":"Life Orb","index":276},
@@ -447,7 +447,7 @@ var SETDEX_SS = {
 
 	"Entei":{
 	"Castle Valet Darach":{"level":48,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Pressure","moves":["Sacred Fire","Stone Edge","Extreme Speed","Iron Head"],"nature":"Calm","item":"Shuca Berry","index":370},
-	"Illusioner Mrs. Moxi":{"level":63,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Pressure","moves":["Sacred Fire","Stone Edge","Bulldoze","Extreme Speed"],"nature":"Quirky","item":"Life Orb","index":586},
+	"Illusioner Mrs. Moxi":{"level":61,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Pressure","moves":["Sacred Fire","Stone Edge","Bulldoze","Extreme Speed"],"nature":"Naughty","item":"Life Orb","index":586},
 	},
     
     "Espeon":{
@@ -588,7 +588,7 @@ var SETDEX_SS = {
     },
         
     "Gligar":{
-    "Nuzlocke Haters Steb & Bobr Route 205":{"level":20,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Immunity","moves":["Aerial Ace","Drill Run","Cross Poison","U-turn"],"nature":"Lax","item":"Leftovers","index":71},
+    "Nuzlocke Haters Steb & Bobr Route 205":{"level":19,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Immunity","moves":["Aerial Ace","Drill Run","Cross Poison","U-turn"],"nature":"Adamant","item":"Leftovers","index":71},
     "Ace Trainer Dennis":{"level":35,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Immunity","moves":["Wing Attack","Protect","X-Scissor","Brick Break"],"nature":"Quiet","item":"(none)","index":220},
     },
 
@@ -675,7 +675,7 @@ var SETDEX_SS = {
     },
         
     "Heracross":{
-    "Nuzlocke Haters Steb & Bobr Route 205":{"level":20,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Swarm","moves":["Protect","Facade","Brick Break","Rock Tomb"],"nature":"Quirky","item":"Toxic Orb","index":69},
+    "Nuzlocke Haters Steb & Bobr Route 205":{"level":19,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Swarm","moves":["Protect","Facade","Brick Break","Rock Tomb"],"nature":"Lax","item":"Toxic Orb","index":69},
     "PKMN Trainer Barry Hearthome - Cleffa":{"level":32,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Guts","moves":["Bug Bite","Brick Break","Aerial Ace","Knock Off"],"nature":"Mild","item":"Coba Berry","index":166},
     "PKMN Trainer Barry Hearthome - Gastly":{"level":32,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Guts","moves":["Bug Bite","Brick Break","Aerial Ace","Knock Off"],"nature":"Mild","item":"Coba Berry","index":170},
     "PKMN Trainer Barry Hearthome - Taillow":{"level":32,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Guts","moves":["Bug Bite","Brick Break","Aerial Ace","Knock Off"],"nature":"Timid","item":"Coba Berry","index":174},
@@ -1072,7 +1072,7 @@ var SETDEX_SS = {
     "PKMN Trainer Barry Route 203 - Cleffa":{"level":10,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Thick Fat","moves":["Metronome","Tackle","Amnesia","Rock Tomb"],"nature":"Docile","item":"(none)","index":24},
     "PKMN Trainer Barry Route 203 - Taillow":{"level":10,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Thick Fat","moves":["Metronome","Tackle","Amnesia","Rock Tomb"],"nature":"Mild","item":"(none)","index":30},
     "PKMN Trainer Barry Route 203 - Gastly":{"level":10,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Thick Fat","moves":["Metronome","Tackle","Amnesia","Rock Tomb"],"nature":"Mild","item":"(none)","index":27},
-    "Nuzlocke Haters Steb & Bobr Route 205":{"level":20,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Thick Fat","moves":["Body Slam","Rock Smash","Zen Headbutt","Metronome"],"nature":"Relaxed","item":"Sitrus Berry","index":68},
+    "Nuzlocke Haters Steb & Bobr Route 205":{"level":19,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Thick Fat","moves":["Body Slam","Rock Smash","Zen Headbutt","Metronome"],"nature":"Lonely","item":"Sitrus Berry","index":68},
     },
     
     "Murkrow":{
@@ -1257,7 +1257,7 @@ var SETDEX_SS = {
     },
 
 	"Raikou":{
-	"Illusioner Mrs. Moxi":{"level":63,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Pressure","moves":["Thunderbolt","Signal Beam","Scald","Calm Mind"],"nature":"Rash","item":"Shuca Berry","index":585},
+	"Illusioner Mrs. Moxi":{"level":61,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Pressure","moves":["Thunderbolt","Signal Beam","Scald","Calm Mind"],"nature":"Quirky","item":"Shuca Berry","index":585},
 	},
         
     "Ralts":{
@@ -1509,7 +1509,7 @@ var SETDEX_SS = {
 	},
 
 	"Suicune":{
-	"Illusioner Mrs. Moxi":{"level":63,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Pressure","moves":["Surf","Ice Beam","Calm Mind","Tailwind"],"nature":"Calm","item":"Leftovers","index":587},
+	"Illusioner Mrs. Moxi":{"level":61,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Pressure","moves":["Surf","Ice Beam","Calm Mind","Tailwind"],"nature":"Rash","item":"Leftovers","index":587},
 	},
         
     "Sunkern":{
