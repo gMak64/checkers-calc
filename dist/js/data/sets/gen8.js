@@ -82,7 +82,7 @@ var SETDEX_SS = {
     },
         
     "Ariados":{
-    "Galactic Grunt Eterna City":{"level":24,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Swarm","moves":["Fury Swipes", "Swords Dance", "Leech Life","Shadow Sneak"],"nature":"Impish","item":"(none)","index":110},
+    "Galactic Grunt Eterna City":{"level":24,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Swarm","moves":["Fury Swipes", "Night Shade", "Leech Life","Shadow Sneak"],"nature":"Impish","item":"(none)","index":110},
 	"Galactic Grunt 4 Galactic HQ":{"level":53,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Swarm","moves":["Pin Missile","Cross Poison","Agility","Psychic"],"nature":"Serious","item":"(none)","index":473},
 	"Galactic Grunt 5 Mt. Coronet":{"level":55,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Swarm","moves":["Megahorn","Cross Poison","Agility","Psychic"],"nature":"Adamant","item":"(none)","index":504},
     }, 
@@ -148,7 +148,7 @@ var SETDEX_SS = {
     },
 
 	"Bibarel":{
-	"Tuber Jacky":{"level":39,"ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Simple","moves":["Amnesia","Swords Dance","Super Fang","Take Down"],"nature":"Lax","item":"(none)","index":288},
+	"Tuber Jacky":{"level":39,"ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Simple","moves":["Amnesia","Aqua Tail","Super Fang","Take Down"],"nature":"Lax","item":"(none)","index":288},
 	},
 
     "Bidoof":{
@@ -343,7 +343,7 @@ var SETDEX_SS = {
     },
 
 	"Dodrio":{
-	"Bird Keeper":{"level":42,"ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Tangled Feet","moves":["Tri Attack","Acupressure","Mirror Move","Swords Dance"],"nature":"Jolly","item":"(none)","index":314},
+	"Bird Keeper":{"level":42,"ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Tangled Feet","moves":["Tri Attack","Acupressure","Mirror Move","Drill Peck"],"nature":"Jolly","item":"(none)","index":314},
 	},
         
     "Donphan":{
@@ -990,11 +990,12 @@ var SETDEX_SS = {
 	},
         
     "Marowak":{	
-    "Hiker Robert":{"level":28,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Rock Head","moves":["Swords Dance","Knock Off","False Swipe","Bonemerang"],"nature":"Bashful","item":"(none)","index":153},
-    "Ruin Maniac Calvin":{"level":33,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Rock Head","moves":["Thrash","Bone Rush","Swords Dance","Knock Off"],"nature":"Lax","item":"(none)","index":218},
+    "Hiker Robert":{"level":28,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Rock Head","moves":["Rage","Knock Off","False Swipe","Bonemerang"],"nature":"Bashful","item":"(none)","index":153},
+    "Ruin Maniac Calvin":{"level":33,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Rock Head","moves":["Thrash","Bone Rush","False Swipe","Knock Off"],"nature":"Lax","item":"(none)","index":218},
     },
 
-	"Masquerain":{"Head-In-Clouds Whacko2":{"level":37,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Intimidate","moves":["Leech Life","Aerial Ace","Fire Spin","Swords Dance"],"nature":"Adamant","item":"Bright Powder","index":227},
+	"Masquerain":{
+	"Head-In-Clouds Whacko2":{"level":37,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Intimidate","moves":["Leech Life","Aerial Ace","Fire Spin","Swords Dance"],"nature":"Adamant","item":"Bright Powder","index":227},
 	"Ace Trainer Jonah":{"level":48,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Intimidate","moves":["Stun Spore","Air Slash","Hydro Pump","Bug Buzz"],"nature":"Gentle","item":"(none)","index":395},
 	"Elite Four Aaron 3":{"level":71,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Intimidate","moves":["Hydro Pump","Bug Buzz","Hurricane","Blizzard"],"nature":"Hasty","item":"Wise Glasses","index":709},
     },
@@ -1327,8 +1328,8 @@ var SETDEX_SS = {
 	"Pokemon Trainer Marley":{"level":65,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Unburden","moves":["Energy Ball","Dragon Pulse","Focus Blast","Endure"],"nature":"Naive","item":"Petaya Berry","index":621},
 	},
         
-    "Scizor":
-    {"Elite Four Aaron Route 208":{"level":31,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Technician","moves":["X-Scissor","Bullet Punch","Iron Head","Swords Dance"],"nature":"Adamant","item":"Muscle Band","index":157},
+    "Scizor":{
+	"Elite Four Aaron Route 208":{"level":31,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Technician","moves":["X-Scissor","Bullet Punch","Iron Head","Swords Dance"],"nature":"Adamant","item":"Muscle Band","index":157},
     "Modstrate NiftyMacaroon":{"level":34,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Technician","moves":["Bug Bite","Bullet Punch","Swords Dance","Roost"],"nature":"Adamant","item":"Metal Coat","index":210},
 	"Ace Trainer Cesar":{"level":50,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Technician","moves":["Bullet Punch","X-Scissor","Night Slash","Iron Head"],"nature":"Sassy","item":"(none)","index":408},
 	"Elite Four Aaron 1":{"level":71,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Technician","moves":["Bug Bite","Iron Head","Bullet Punch","U-turn"],"nature":"Adamant","item":"Life Orb","index":698},
@@ -1355,7 +1356,7 @@ var SETDEX_SS = {
     
     "Seviper":{
     "Galactic Grunt 2 Pokemon Mansion":{"level":28,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Shed Skin","moves":["Gastro Acid","Night Slash","Poison Tail","Glare"],"nature":"Lonely","item":"(none)","index":183},
-	"Galactic Grunt 6 Galactic HQ":{"level":53,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Shed Skin","moves":["Haze","Swords Dance","Gunk Shot","Wring Out"],"nature":"Brave","item":"(none)","index":478},
+	"Galactic Grunt 6 Galactic HQ":{"level":53,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Shed Skin","moves":["Haze","Sludge Bomb","Gunk Shot","Wring Out"],"nature":"Brave","item":"(none)","index":478},
     },
 
 	"Sharpedo":{
@@ -1686,7 +1687,7 @@ var SETDEX_SS = {
     },
 
 	"Whiscash":{
-	"Swimmer Oscar":{"level":59,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Oblivious","moves":["Earthquake","Dragon Dance","Hydro Pump","Fissure"],"nature":"Gentle","item":"(none)","index":575},
+	"Swimmer Oscar":{"level":59,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Oblivious","moves":["Earthquake","Future Sight","Hydro Pump","Fissure"],"nature":"Gentle","item":"(none)","index":575},
 	"Elite Four Bertha 1":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Oblivious","moves":["Aqua Tail","Earthquake","Bounce","Dragon Dance"],"nature":"Careful","item":"Life Orb","index":722},
 	},
         
