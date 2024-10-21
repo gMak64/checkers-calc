@@ -1518,8 +1518,8 @@ function previousTrainer() {
 }
 
 function resetTrainer() {
-	if (confirm(`Are you sure you want to reset? This will clear all imported sets and change your current trainer back to Younger Calvin. This cannot be undone.`)){
-		selectTrainer(1);
+	if (confirm(`Are you sure you want to reset? This will clear all imported sets and change your current trainer back to PKMN Trainer Barry. This cannot be undone.`)){
+		selectTrainer(0);
 		localStorage.removeItem("customsets");
 		$(allPokemon("#importedSetsOptions")).hide();
 		loadDefaultLists();
