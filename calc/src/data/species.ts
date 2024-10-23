@@ -4452,7 +4452,7 @@ const PLA_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
         bs: {"hp": 65, "at": 80, "df": 80, "sa": 59, "sd": 63, "sp": 58}
       },
       "Feraligatr": {
-        types: ["Water", "Dark"],
+        types: ["Water", "Dragon"],
         bs: {"hp": 85, "at": 110, "df": 100, "sa": 79, "sd": 83, "sp": 78}
       },
       "Sentret": {
