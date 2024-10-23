@@ -4505,7 +4505,7 @@ const PLA_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
       },
       "Cleffa": {
         types: ["Fairy"],
-        bs: {"hp": 120, "at": 30, "df": 110, "sa": 90, "sd": 120, "sp": 85}
+        bs: {"hp": 130, "at": 30, "df": 120, "sa": 90, "sd": 120, "sp": 65}
       },
       "Igglybuff": {
         types: ["Normal", "Fairy"],

@@ -358,7 +358,7 @@ var SETDEX_SS = {
         
     "Drapion":{
     "Elite Four Aaron Route 208":{"level":32,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Sniper","moves":["Cross Poison","X-Scissor","Night Slash","Swords Dance"],"nature":"Jolly","item":"Scope Lens","index":158},
-	"Nuzlocke Haters Steb & Bobr Route 213":{"level":40,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sniper","moves":["Cross Poison","Night Slash","Slash","Stone Edge"],"nature":"Hardy","item":"Scope Lens","index":260},
+	"Nuzlocke Haters Steb & Bobr Route 213":{"level":40,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sniper","moves":["Cross Poison","Night Slash","Slash","Stone Edge"],"nature":"Hardy","item":"Black Sludge","index":260},
 	"The Illusioned Moxi":{"level":54,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sniper","moves":["Acupressure","Night Slash","Cross Poison","Aqua Tail"],"nature":"Gentle","item":"Scope Lens","index":451},
 	"Galactic Grunt 2 Mt. Coronet":{"level":54,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Sniper","moves":["Night Slash","Scary Face","Crunch","Cross Poison"],"nature":"Adamant","item":"(none)","index":497},
 	"Nuzlocke Haters Steb & Bobr Sunyshore":{"level":60,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"","moves":["Cross Poison","Night Slash","Stone Edge","Swords Dance"],"nature":"Hasty","item":"Scope Lens","index":540},
