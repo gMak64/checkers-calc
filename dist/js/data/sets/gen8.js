@@ -300,7 +300,7 @@ var SETDEX_SS = {
     },
 
 	"Cresselia":{
-	"Nuzlocke Haters Steb & Bobr Sunyshore":{"level":56,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Levitate","moves":["Dazzling Gleam","Reflect","Light Screen","Helping Hand"],"nature":"Jolly","item":"Leftovers","index":543},
+	"Nuzlocke Haters Steb & Bobr Sunyshore":{"level":56,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Levitate","moves":["Dazzling Gleam","Dream Eater","Helping Hand","Gravity"],"nature":"Jolly","item":"Leftovers","index":543},
 	},
 
 	"Crobat":{
@@ -327,7 +327,7 @@ var SETDEX_SS = {
     },
 
 	"Darkrai":{
-	"Nuzlocke Haters Steb & Bobr Sunyshore":{"level":56,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Bad Dreams","moves":["Dark Void","Nasty Plot","Dark Pulse","Focus Blast"],"nature":"Quirky","item":"Life Orb","index":542},
+	"Nuzlocke Haters Steb & Bobr Sunyshore":{"level":56,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Bad Dreams","moves":["Hypnosis","Nasty Plot","Dark Pulse","Focus Blast"],"nature":"Quirky","item":"Life Orb","index":542},
 	},
 
 	"Dewgong":{
@@ -361,7 +361,7 @@ var SETDEX_SS = {
 	"Nuzlocke Haters Steb & Bobr Route 213":{"level":40,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sniper","moves":["Cross Poison","Night Slash","Slash","Stone Edge"],"nature":"Hardy","item":"Black Sludge","index":260},
 	"The Illusioned Moxi":{"level":54,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sniper","moves":["Acupressure","Night Slash","Cross Poison","Aqua Tail"],"nature":"Gentle","item":"Scope Lens","index":451},
 	"Galactic Grunt 2 Mt. Coronet":{"level":54,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Sniper","moves":["Night Slash","Scary Face","Crunch","Cross Poison"],"nature":"Adamant","item":"(none)","index":497},
-	"Nuzlocke Haters Steb & Bobr Sunyshore":{"level":60,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"","moves":["Cross Poison","Night Slash","Stone Edge","Swords Dance"],"nature":"Hasty","item":"Scope Lens","index":540},
+	"Nuzlocke Haters Steb & Bobr Sunyshore":{"level":60,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"","moves":["Cross Poison","Night Slash","Stone Edge","Swords Dance"],"nature":"Hasty","item":"Black Sludge","index":540},
 	"Elite Four Aaron 1":{"level":72,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sniper","moves":["Cross Poison","Night Slash","X-Scissor","Earthquake"],"nature":"Jolly","item":"Scope Lens","index":702},
 	"Elite Four Aaron 2":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Sniper","moves":["Cross Poison","Night Slash","Aqua Tail","Earthquake"],"nature":"Naive","item":"Scope Lens","index":708},
 	"Elite Four Aaron 3":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Sniper","moves":["Cross Poison","Night Slash","X-Scissor","Earthquake"],"nature":"Naive","item":"Scope Lens","index":714},
