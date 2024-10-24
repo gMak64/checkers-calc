@@ -4941,7 +4941,7 @@ var PLA_PATCH = {
     },
     "Taillow": {
         types: ["Normal", "Flying"],
-        bs: { "hp": 80, "at": 100, "df": 80, "sa": 50, "sd": 70, "sp": 175 }
+        bs: { "hp": 90, "at": 115, "df": 80, "sa": 40, "sd": 70, "sp": 150 }
     },
     "Swellow": {
         types: ["Normal", "Flying"],
