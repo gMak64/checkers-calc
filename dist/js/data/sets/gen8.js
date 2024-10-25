@@ -339,7 +339,7 @@ var SETDEX_SS = {
 	},
         
     "Diglett":{
-    "Special Grade Stonkedd":{"level":24,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Arena Trao","moves":["Endure","Endeavor"],"nature":"Sassy","item":"Focus Sash","index":90},
+    "Special Grade Stonkedd":{"level":24,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Arena Trap","moves":["Endure","Endeavor"],"nature":"Sassy","item":"Focus Sash","index":90},
     },
 
 	"Dodrio":{
