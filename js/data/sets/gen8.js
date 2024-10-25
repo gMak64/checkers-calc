@@ -10,7 +10,7 @@ var SETDEX_SS = {
 	},
     
     "Abra":{
-    "School Kid Harrison":{"level":8,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Magic Guard","moves":["Hidden Power"],"nature":"Mild","item":"(none)","index":16},
+    "School Kid Harrison":{"level":8,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Magic Guard","moves":["Hidden Power Fighting"],"nature":"Mild","item":"(none)","index":16},
     },
 	
 	"Aerodactyl":{
@@ -108,7 +108,7 @@ var SETDEX_SS = {
 	"Tuber Caitlin":{"level":39,"ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Huge Power","moves":["Belly Drum","Rain Dance","Aqua Ring","Play Rough"],"nature":"Bashful","item":"(none)","index":291},
 	"PKMN Trainer Barry Canalave - Cleffa":{"level":48,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Huge Power","moves":["Aqua Tail","Play Rough","Ice Punch","Aqua Jet"],"nature":"Serious","item":"Life Orb","index":374},
 	"PKMN Trainer Barry Canalave - Gastly":{"level":48,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Huge Power","moves":["Aqua Tail","Play Rough","Ice Punch","Aqua Jet"],"nature":"Serious","item":"Life Orb","index":380},
-	"The Illusioned Moxi":{"level":54,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Life Orb","moves":["Play Rough","Aqua Jet","Ice Punch","Drain Punch"],"nature":"Impish","item":"Life Orb","index":453},
+	"The Illusioned Moxi":{"level":54,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Huge Power","moves":["Play Rough","Aqua Jet","Ice Punch","Drain Punch"],"nature":"Impish","item":"Life Orb","index":453},
 	"PKMN Trainer Barry Pokemon League - Cleffa":{"level":70,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Huge Power","moves":["Aqua Tail","Play Rough","Ice Punch","Aqua Jet"],"nature":"Serious","item":"Life Orb","index":682},
 	"PKMN Trainer Barry Pokemon League - Gastly":{"level":70,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Huge Power","moves":["Aqua Tail","Play Rough","Ice Punch","Aqua Jet"],"nature":"Sassy","item":"Life Orb","index":688},
     },
@@ -166,7 +166,7 @@ var SETDEX_SS = {
 
 	"Blissey":{
 	"Collector Ivan":{"level":45,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Serene Grace","moves":["Counter","Healing Wish","Light Screen","Take Down"],"nature":"Bold","item":"(none)","index":364},
-	"Ace Trainer Olivia":{"level":52,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Natural Cure","moves":["Hyper Voice","Thunderbolt","Soft-Boiled","Flamethrower"],"nature":"Modest","item":"(none)","index":444},
+	"Ace Trainer Olivia":{"level":52,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Serene Grace","moves":["Hyper Voice","Thunderbolt","Soft-Boiled","Flamethrower"],"nature":"Modest","item":"(none)","index":444},
 	"Ace Trainer Nephenee":{"level":54,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Serene Grace","moves":["Light Screen","Hyper Voice","Soft-Boiled","Dazzling Gleam"],"nature":"Hasty","item":"(none)","index":448},
 	"Ace Trainer Mariah":{"level":63,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Serene Grace","moves":["Calm Mind","Hyper Voice","Soft-Boiled","Ice Beam"],"nature":"Calm","item":"(none)","index":588},
 	},
@@ -203,7 +203,7 @@ var SETDEX_SS = {
     },
         
     "Burmy":{
-    "Youngster Logan":{"level":7,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Battle Armor","moves":["Hidden Power","Bug Bite","Tackle","Protect"],"nature":"Jolly","item":"(none)","index":14},
+    "Youngster Logan":{"level":7,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Battle Armor","moves":["Hidden Power Fighting","Bug Bite","Tackle","Protect"],"nature":"Jolly","item":"(none)","index":14},
     },
     
     "Butterfree":{
@@ -454,13 +454,13 @@ var SETDEX_SS = {
     "Gentleman Backlot":{"level":33,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Magic Guard","moves":["Psychic","Power Gem","Luster Purge","Protect"],"nature":"Adamant","item":"Sitrus Berry","index":198},
     "Modstrate LassEmmie":{"level":34,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Magic Guard","moves":["Psychic","Shadow Ball","Aura Sphere","Dazzling Gleam"],"nature":"Naughty","item":"Life Orb","index":208},
 	"Illusioner Mrs. Moxi":{"level":63,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Magic Guard","moves":["Psychic","Shadow Ball","Aura Sphere","Trick"],"nature":"Modest","item":"Choice Specs","index":583},
-	"Elite Four Lucian 1":{"level":74,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Synchronize","moves":["Psychic","Dazzling Gleam","Aura Sphere","Power Gem"],"nature":"Naive","item":"Wise Glasses","index":770},
+	"Elite Four Lucian 1":{"level":74,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Magic Guard","moves":["Psychic","Dazzling Gleam","Aura Sphere","Power Gem"],"nature":"Naive","item":"Wise Glasses","index":770},
 	"Elite Four Lucian 2":{"level":74,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Magic Guard","moves":["Psychic","Aura Sphere","Reflect","Light Screen"],"nature":"Hasty","item":"Light Clay","index":775},
     },
     
     "Exeggcute":{
     "Psychic Lindsey":{"level":17,"ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Chlorophyll","moves":["Leech Seed","Bullet Seed","Confusion","Reflect"],"nature":"Lax","item":"(none)","index":79},
-    "Lass Caroline":{"level":22,"ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Chlorophyll","moves":["Sleep Powder","Poison Powder", "Stune Spore", "Leech Seed"],"nature":"Gentle","item":"(none)","index":95},
+    "Lass Caroline":{"level":22,"ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Chlorophyll","moves":["Sleep Powder","Poison Powder", "Stun Spore", "Leech Seed"],"nature":"Gentle","item":"(none)","index":95},
     },
 
 	"Exeggutor":{
@@ -675,7 +675,7 @@ var SETDEX_SS = {
     },
         
     "Heracross":{
-    "Nuzlocke Haters Steb & Bobr Route 205":{"level":19,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Swarm","moves":["Protect","Facade","Brick Break","Rock Tomb"],"nature":"Lax","item":"Toxic Orb","index":69},
+    "Nuzlocke Haters Steb & Bobr Route 205":{"level":19,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Guts","moves":["Protect","Facade","Brick Break","Rock Tomb"],"nature":"Lax","item":"Toxic Orb","index":69},
     "PKMN Trainer Barry Hearthome - Cleffa":{"level":32,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Guts","moves":["Bug Bite","Brick Break","Aerial Ace","Knock Off"],"nature":"Mild","item":"Coba Berry","index":166},
     "PKMN Trainer Barry Hearthome - Gastly":{"level":32,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Guts","moves":["Bug Bite","Brick Break","Aerial Ace","Knock Off"],"nature":"Mild","item":"Coba Berry","index":170},
     "PKMN Trainer Barry Hearthome - Taillow":{"level":32,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Guts","moves":["Bug Bite","Brick Break","Aerial Ace","Knock Off"],"nature":"Timid","item":"Coba Berry","index":174},
@@ -771,7 +771,7 @@ var SETDEX_SS = {
 	"PKMN Trainer Dawn Route 210 - Gastly":{"level":44,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Motor Drive","moves":["Thunder","Shadow Ball","Extrasensory","Thunder Wave"],"nature":"Jolly","item":"Wise Glasses","index":330},
 	"PKMN Trainer Lucas Route 210 - Gastly":{"level":44,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Motor Drive","moves":["Thunder","Shadow Ball","Extrasensory","Thunder Wave"],"nature":"Rash","item":"Wise Glasses","index":348},
 	"Ace Trainer Destiny":{"level":60,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Motor Drive","moves":["Discharge","Shadow Ball","Extrasensory","Baton Pass"],"nature":"Serious","item":"(none)","index":559},
-	"Leader Volkner":{"level":61,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Volt Absorb","moves":["Thunderbolt","Shadow Ball","Grass Knot","Thunder Wave"],"nature":"Naive","item":"Focus Sash","index":567},
+	"Leader Volkner":{"level":61,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Motor Drive","moves":["Thunderbolt","Shadow Ball","Grass Knot","Thunder Wave"],"nature":"Naive","item":"Focus Sash","index":567},
 	"PKMN Trainer Dawn 224 - Gastly":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Motor Drive","moves":["Thunderbolt","Grass Knot","Shadow Ball","Thunder Wave"],"nature":"Gentle","item":"Shuca Berry","index":653},
 	"PKMN Trainer Lucas 224 - Gastly":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Motor Drive","moves":["Thunderbolt","Grass Knot","Shadow Ball","Thunder Wave"],"nature":"Hasty","item":"Shuca Berry","index":671},
     },
@@ -875,7 +875,7 @@ var SETDEX_SS = {
 	"PKMN Trainer Dawn Route 210 - Cleffa":{"level":44,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Scrappy","moves":["Strength","Jump Kick","Fire Punch","Ice Punch"],"nature":"Naughty","item":"Choice Band","index":323},
 	"PKMN Trainer Dawn Route 210 - Gastly":{"level":44,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Scrappy","moves":["Strength","Jump Kick","Fire Punch","Ice Punch"],"nature":"Relaxed","item":"Choice Band","index":329},
 	"PKMN Trainer Dawn Route 210 - Taillow":{"level":44,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Scrappy","moves":["Strength","Jump Kick","Fire Punch","Ice Punch"],"nature":"Timid","item":"Choice Band","index":335},
-	"Ace Trainer Brenda":{"level":48,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Scrappy","moves":["Flail","Bounce","Focus Punch","Healing  Wish"],"nature":"Bold","item":"(none)","index":399},
+	"Ace Trainer Brenda":{"level":48,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Scrappy","moves":["Flail","Bounce","Focus Punch","Healing Wish"],"nature":"Bold","item":"(none)","index":399},
 	"PKMN Trainer Dawn 224 - Cleffa":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Scrappy","moves":["Mega Kick","High Jump Kick","Fake Out","Agility"],"nature":"Serious","item":"Focus Sash","index":646},
 	"PKMN Trainer Dawn 224 - Gastly":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Scrappy","moves":["Mega Kick","High Jump Kick","Fake Out","Agility"],"nature":"Modest","item":"Focus Sash","index":652},	"PKMN Trainer Dawn 224 - Taillow":{"level":69,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Scrappy","moves":["Mega Kick","High Jump Kick","Fake Out","Agility"],"nature":"Impish","item":"Focus Sash","index":658},
 	"Elite Four Flint 2":{"level":73,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Scrappy","moves":["High Jump Kick","Mega Kick","Blaze Kick","Sunny Day"],"nature":"Hasty","item":"Focus Sash","index":752},
@@ -888,8 +888,8 @@ var SETDEX_SS = {
 
 	"Lucario":{
 	"Leader Maylene":{"level":39,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Adaptability","moves":["Aura Sphere","Flash Cannon","Dark Pulse","Agility"],"nature":"Timid","item":"Focus Sash","index":242},
-	"Pokemon Trainer Riley":{"level":50,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Steadfast","moves":["High Jump Kick","Meteor Mash","Blaze Kick","Bullet Punch"],"nature":"Impish","item":"Life Orb","index":394},
-	"Black Belt David":{"level":51,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Steadfast","moves":["Meteor Mash","Aura Sphere","Dark Pulse","Blaze Kick"],"nature":"Impish","item":"(none)","index":412},
+	"Pokemon Trainer Riley":{"level":50,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Adaptability","moves":["High Jump Kick","Meteor Mash","Blaze Kick","Bullet Punch"],"nature":"Impish","item":"Life Orb","index":394},
+	"Black Belt David":{"level":51,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Adaptability","moves":["Meteor Mash","Aura Sphere","Dark Pulse","Blaze Kick"],"nature":"Impish","item":"(none)","index":412},
 	"Black Belt Luke":{"level":51,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Adaptability","moves":["Dragon Pulse","Blaze Kick","Close Combat","Meteor Mash"],"nature":"Adamant","item":"(none)","index":441},
 	"Champion Cynthia 1":{"level":77,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Adaptability","moves":["High Jump Kick","Meteor Mash","Extreme Speed","Ice Punch"],"nature":"Jolly","item":"Life Orb","index":796},
 	"Champion Cynthia 2":{"level":77,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Adaptability","moves":["Aura Sphere","Flash Cannon","Dark Pulse","Vacuum Wave"],"nature":"Timid","item":"Life Orb","index":803},
@@ -907,9 +907,9 @@ var SETDEX_SS = {
     },
 
 	"Luxray":{
-	"Guitarist Jerry":{"level":60,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Rivalry","moves":["Spark","Crunch","Fire Fang","Charge"],"nature":"Relaxed","item":"(none)","index":551},
+	"Guitarist Jerry":{"level":60,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Intimidate","moves":["Spark","Crunch","Fire Fang","Charge"],"nature":"Relaxed","item":"(none)","index":551},
 	"Ace Trainer Destiny":{"level":60,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Intimidate","moves":["Iron Tail","Night Slash","Wild Charge","Howl"],"nature":"Adamant","item":"(none)","index":560},
-	"Leader Volkner":{"level":61,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Rivalry","moves":["Wild Charge","Crunch","Ice Fang","Fire Fang"],"nature":"Naughty","item":"Choice Band","index":571},
+	"Leader Volkner":{"level":61,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Intimidate","moves":["Wild Charge","Crunch","Ice Fang","Fire Fang"],"nature":"Naughty","item":"Choice Band","index":571},
 	},
 
 	"Machamp":{
@@ -995,7 +995,6 @@ var SETDEX_SS = {
     },
 
 	"Masquerain":{
-	"Head-In-Clouds Whacko2":{"level":37,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Intimidate","moves":["Leech Life","Aerial Ace","Fire Spin","Swords Dance"],"nature":"Adamant","item":"Bright Powder","index":227},
 	"Ace Trainer Jonah":{"level":48,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Intimidate","moves":["Stun Spore","Air Slash","Hydro Pump","Bug Buzz"],"nature":"Gentle","item":"(none)","index":395},
 	"Elite Four Aaron 3":{"level":71,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Intimidate","moves":["Hydro Pump","Bug Buzz","Hurricane","Blizzard"],"nature":"Hasty","item":"Wise Glasses","index":709},
     },
@@ -1123,6 +1122,7 @@ var SETDEX_SS = {
     },
     
     "Ninjask":{
+	"Head-In-Clouds Whacko2":{"level":37,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Intimidate","moves":["Leech Life","Aerial Ace","Dig","Swords Dance"],"nature":"Calm","item":"Bright Powder","index":227},
     "Galactic Grunt 5 Pokemon Mansion":{"level":30,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Speed Boost","moves":["Aerial Ace","Night Slash","Slash","Screech"],"nature":"Quirky","item":"Focus Sash","index":188},  
     },
     
@@ -1153,8 +1153,8 @@ var SETDEX_SS = {
 	},
 
 	"Pelipper":{
-	"Sailor Damien":{"level":39,"ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Drizzle","moves":["Tailwind","Air Slash","Roost","Spit Up"],"nature":"Rash","item":"(none)","index":285},
-	"Sailor Luther":{"level":56,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Drizzle","moves":["Tailwind","Uproar","Hydro Pump","Hurricane"],"nature":"Bashful","item":"(none)","index":534},
+	"Sailor Damien":{"level":39,"ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Water Veil","moves":["Tailwind","Air Slash","Roost","Spit Up"],"nature":"Rash","item":"(none)","index":285},
+	"Sailor Luther":{"level":56,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Water Veil","moves":["Tailwind","Uproar","Hydro Pump","Hurricane"],"nature":"Bashful","item":"(none)","index":534},
 	},
 
 	"Persian":{
@@ -1233,7 +1233,7 @@ var SETDEX_SS = {
 	},
         
     "Psyduck":{
-    "School Kid Harrison":{"level":8,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Damp","moves":["Hidden Power","Water Gun"],"nature":"Relaxed","item":"(none)","index":17},
+    "School Kid Harrison":{"level":8,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Damp","moves":["Hidden Power Fighting","Water Gun"],"nature":"Relaxed","item":"(none)","index":17},
     "Lass Madeline":{"level":10,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Damp","moves":["Confusion","Water Gun","Tail Whip","Scratch"],"nature":"Relaxed","item":"(none)","index":37},
     },
     
@@ -1262,7 +1262,7 @@ var SETDEX_SS = {
 	},
         
     "Ralts":{
-    "School Kid Christine":{"level":8,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Synchronize","moves":["Confusion","Hidden Power"],"nature":"Modest","item":"(none)","index":18},
+    "School Kid Christine":{"level":8,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Synchronize","moves":["Confusion","Hidden Power Fighting"],"nature":"Modest","item":"(none)","index":18},
     },
 
 	"Rampardos":{
@@ -1351,7 +1351,7 @@ var SETDEX_SS = {
 	},
         
     "Sentret":{
-    "Lass Natalie":{"level":7,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Run Away","moves":["Helping Hand","Peck","Foresight","Growl"],"nature":"Hasty","item":"(none)","index":9},
+    "Lass Natalie":{"level":7,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Run Away","moves":["Helping Hand","Fury Swipes","Quick Attack","Defense Curl"],"nature":"Hasty","item":"(none)","index":9},
     },
     
     "Seviper":{
@@ -1489,7 +1489,7 @@ var SETDEX_SS = {
 	},
         
     "Staryu":{
-    "School Kid Christine":{"level":8,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Illuminate","moves":["Hidden Power","Water Gun"],"nature":"Serious","item":"(none)","index":19},
+    "School Kid Christine":{"level":8,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Illuminate","moves":["Hidden Power Fighting","Water Gun"],"nature":"Serious","item":"(none)","index":19},
     },
 
 	"Steelix":{
@@ -1630,8 +1630,8 @@ var SETDEX_SS = {
     "Venomoth":{
     "Elite Four Aaron Route 208":{"level":31,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Tinted Lens","moves":["Bug Buzz","Psychic","Sludge Bomb","Sleep Powder"],"nature":"Naive","item":"Wise Glasses","index":156},
 	"Galactic Grunt 1 Veilstone":{"level":35,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Tinted Lens","moves":["Baton Pass","Gust","Signal Beam","Zen Headbutt"],"nature":"Quirky","item":"(none)","index":245},
-	"Galactic Grunt 5 Galactic HQ":{"level":53,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Tinted Lens","moves":["Baton Pass","Psychic","Morning Sun","Buz Buzz"],"nature":"Impish","item":"(none)","index":475},
-	"Galactic Grunt 1 Spear Pillar":{"level":56,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Tinted Lens","moves":["Baton Pass","Psychic","Morning Sun","Buz Buzz"],"nature":"Relaxed","item":"(none)","index":512},
+	"Galactic Grunt 5 Galactic HQ":{"level":53,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Tinted Lens","moves":["Baton Pass","Psychic","Morning Sun","Bug Buzz"],"nature":"Impish","item":"(none)","index":475},
+	"Galactic Grunt 1 Spear Pillar":{"level":56,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Tinted Lens","moves":["Baton Pass","Psychic","Morning Sun","Bug Buzz"],"nature":"Relaxed","item":"(none)","index":512},
 	"Elite Four Aaron 2":{"level":71,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Tinted Lens","moves":["Bug Buzz","Sludge Bomb","Double Team","Psychic"],"nature":"Timid","item":"Wide Lens","index":703},
     },
     
