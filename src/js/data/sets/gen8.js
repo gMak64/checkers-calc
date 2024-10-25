@@ -1395,7 +1395,7 @@ var SETDEX_SS = {
         
     "Skuntank":{
     "Commander Jupiter Eterna Building":{"level":27,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Aftermath","moves":["Poison Jab","Night Slash","Focus Energy","Torment"],"nature":"Adamant","item":"Sitrus Berry","index":124},
-	"Galactic Grunt 2 Veilstone":{"level":35,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Aftermath","moves":["Memento","Poison Jab","Toxic","Feint"],"nature":"Careful","item":"(none)","index":246},
+	"Galactic Grunt 2 Veilstone":{"level":35,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Aftermath","moves":["Flamethrower","Poison Jab","Toxic","Feint"],"nature":"Careful","item":"(none)","index":246},
 	"Galactic Grunt 2 Iron Island":{"level":46,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Aftermath","moves":["Flamethrower","Memento","Crunch","Sludge Bomb"],"nature":"Lonely","item":"(none)","index":406},
 	"Commander Jupiter Spear Pillar":{"level":58,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Aftermath","moves":["Gunk Shot","Crunch","Play Rough","Toxic"],"nature":"Lax","item":"Sitrus Berry","index":525},
     },
