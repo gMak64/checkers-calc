@@ -1208,7 +1208,7 @@ var SETDEX_SS = {
     "Galactic Grunt Valley Windworks Outside":{"level":14,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Run Away","moves":["Assurance","Odor Sleuth","Bite","Sand Attack"],"nature":"Careful","item":"(none)","index":55},
     },
     
-    "Politoed":{"Modstrate NiftyMacaroon":{"level":34,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Drizzle","moves":["Protect","Brine","Icy Wind","Helping Hand"],"nature":"Serious","item":"Sitrus Berry","index":209},
+    "Politoed":{"Modstrate NiftyMacaroon":{"level":34,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Drizzle","moves":["Protect","Scald","Icy Wind","Helping Hand"],"nature":"Serious","item":"Sitrus Berry","index":209},
 	"Ace Trainer Ernest":{"level":41,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Drizzle","moves":["Scald","Icy Wind","Hypnosis","Psychic"],"nature":"Lax","item":"(none)","index":307},
     },
 
