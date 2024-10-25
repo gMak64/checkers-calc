@@ -347,7 +347,7 @@ var SETDEX_SS = {
 	},
         
     "Donphan":{
-    "Special Grade Stonkedd":{"level":24,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sand Veil","moves":["Sand Tomb","Mud-Slap","Stealth Rock","Assurance"],"nature":"Serious","item":"Bright Powder","index":88},
+    "Special Grade Stonkedd":{"level":24,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Sand Veil","moves":["Bulldoze","Mud-Slap","Stealth Rock","Assurance"],"nature":"Serious","item":"Bright Powder","index":88},
 	"Veteran Brenden":{"level":66,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Sand Veil","moves":["Earthquake","Ice Shard","Play Rough","Head Smash"],"nature":"Bold","item":"(none)","index":642},
 	"Elite Four Bertha 1":{"level":72,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Sand Veil","moves":["Earthquake","Play Rough","Head Smash","Superpower"],"nature":"Impish","item":"Rindo Berry","index":725},
     },
@@ -482,7 +482,7 @@ var SETDEX_SS = {
 	},
 
 	"Forretress":{
-	"Worker Gerardo":{"level":49,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Sturdy","moves":["Gyro Ball","Horn Drill","Explosion","Iron Defense"],"nature":"Rash","item":"(none)","index":411},
+	"Worker Gerardo":{"level":49,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Sturdy","moves":["Gyro Ball","Drill Run","Explosion","Iron Defense"],"nature":"Rash","item":"(none)","index":411},
 	"Leader Byron":{"level":52,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Sturdy","moves":["Gyro Ball","Spikes","Toxic Spikes","Explosion"],"nature":"Impish","item":"Sitrus Berry","index":419},
 	"Galactic Grunt 6 Galactic HQ":{"level":53,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Sturdy","moves":["Drill Run","Explosion","Iron Defense","Double-Edge"],"nature":"Lonely","item":"(none)","index":477},
 	"Galactic Grunt 5 Mt. Coronet":{"level":55,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Sturdy","moves":["Drill Run","Explosion","Iron Defense","Double-Edge"],"nature":"Hasty","item":"(none)","index":506},
@@ -567,7 +567,7 @@ var SETDEX_SS = {
         
     "Geodude":{
     "Picnicker Diana":{"level":12,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Rock Head","moves":["Rock Throw","Rock Polish","Mud Sport","Defense Curl"],"nature":"Mild","item":"(none)","index":42},
-    "Leader Roark":{"level":15,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Rock Head","moves":["Sand Tomb","Rock Tomb","Fire Punch","Thunder Punch"],"nature":"Adamant","item":"Expert Belt","index":47},
+    "Leader Roark":{"level":15,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Rock Head","moves":["Bulldoze","Rock Tomb","Fire Punch","Thunder Punch"],"nature":"Adamant","item":"Expert Belt","index":47},
     },
 
 	"Girafarig":{
@@ -643,7 +643,7 @@ var SETDEX_SS = {
     },
         
     "Grotle":{
-    "Leader Gardenia":{"level":25,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Overgrow","moves":["Seed Bomb","Protect","Leech Seed","Sand Tomb"],"nature":"Adamant","item":"Leftovers","index":106},
+    "Leader Gardenia":{"level":25,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Overgrow","moves":["Seed Bomb","Protect","Leech Seed","Bulldoze"],"nature":"Adamant","item":"Leftovers","index":106},
     },
         
     "Growlithe":{
@@ -832,7 +832,7 @@ var SETDEX_SS = {
 	},
         
     "Larvitar":{
-    "Leader Roark":{"level":15,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Guts","moves":["Rock Tomb","Sand Tomb","Bite","Protect"],"nature":"Jolly","item":"Flame Orb","index":49},
+    "Leader Roark":{"level":15,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Guts","moves":["Rock Tomb","Bulldoze","Bite","Protect"],"nature":"Jolly","item":"Flame Orb","index":49},
     },
     
     "Leafeon":{
@@ -1137,7 +1137,7 @@ var SETDEX_SS = {
     },
         
     "Onix":{
-    "Leader Roark":{"level":15,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Rock Head","moves":["Stealth Rock","Rock Tomb","Sand Tomb","Sandstorm"],"nature":"Jolly","item":"Muscle Band","index":48},
+    "Leader Roark":{"level":15,"ivs":{"hp":29,"at":29,"df":29,"sa":29,"sd":29,"sp":29,},"ability":"Rock Head","moves":["Stealth Rock","Rock Tomb","Bulldoze","Sandstorm"],"nature":"Jolly","item":"Muscle Band","index":48},
     },
 
 	"Pachirisu":{
@@ -1343,7 +1343,7 @@ var SETDEX_SS = {
 	},
 
 	"Seaking":{
-	"Swimmer Crystal":{"level":59,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Water Veil","moves":["Horn Drill","Bounce","Megahorn","Hydro Pump"],"nature":"Gentle","item":"(none)","index":577},
+	"Swimmer Crystal":{"level":59,"ivs":{"hp":12,"at":12,"df":12,"sa":12,"sd":12,"sp":12,},"ability":"Water Veil","moves":["Drill Run","Bounce","Megahorn","Hydro Pump"],"nature":"Gentle","item":"(none)","index":577},
 	},
 
 	"Sealeo":{
