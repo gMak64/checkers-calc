@@ -430,7 +430,7 @@ var SETDEX_SS = {
 
 	"Electrode":{
 	"Guitarist Lonnie":{"level":60,"ivs":{"hp":24,"at":24,"df":24,"sa":24,"sd":24,"sp":24,},"ability":"Soundproof","moves":["Thunderbolt","Signal Beam","Explosion","Toxic"],"nature":"Quiet","item":"(none)","index":556},
-	"Ace Trainer Zacharyam":{"level":60,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Soundproof","moves":["Thunder","Signal Beam","Explosion","Sucker Punch"],"nature":"Gentle","item":"(none)","index":566},
+	"Ace Trainer Zachary":{"level":60,"ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30,"sp":30,},"ability":"Soundproof","moves":["Thunder","Signal Beam","Explosion","Sucker Punch"],"nature":"Gentle","item":"(none)","index":566},
 	"Pokemon Trainer Marley":{"level":65,"ivs":{"hp":31,"at":31,"df":31,"sa":31,"sd":31,"sp":31,},"ability":"Soundproof","moves":["Thunderbolt","Thunder Wave","Light Screen","Explosion"],"nature":"Serious","item":"Light Clay","index":620},
 	},
 
