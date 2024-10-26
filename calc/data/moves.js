@@ -911,7 +911,7 @@ var DPP_PATCH = {
     Roost: { bp: 0, type: 'Flying' },
     'Stealth Rock': { bp: 0, type: 'Rock' },
     'Sucker Punch': {
-        bp: 80,
+        bp: 70,
         type: 'Dark',
         priority: 1,
         makesContact: true,
