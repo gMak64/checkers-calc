@@ -659,7 +659,7 @@ var Item = (function () {
         if (berry) {
             this.isBerry = true;
             this.naturalGift = {
-                basePower: gen < 6 ? berry.p - 20 : berry.p,
+                basePower: berry.p - 20,
                 type: berry.t
             };
         }
